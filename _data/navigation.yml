@@ -31,12 +31,14 @@ repeaters:
     children:
       - title: "EchoLink"
         url: /repeaters/echolink/
-      - title: "Structure"
-        url: /repeaters/structure/
-      - title: "Installation"
-        url: /repeaters/installation/
-      - title: "Upgrading"
-        url: /repeaters /upgrading/
+      - title: "VHF"
+        url: /repeaters/vhf/
+      - title: "UHF"
+        url: /repeaters/uhf/
+      - title: "DMR"
+        url: /repeaters/dmr/
+      - title: "D-Star"
+        url: /repeaters/dstar/
 # sidebar navigation list sample
 sidebar-sample:
   - title: "Parent Page A"
