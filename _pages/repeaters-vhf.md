@@ -7,4 +7,8 @@ sidebar:
   nav: "repeaters"
 ---
 
-Sample post listing for the tag `markup`.
+<a href="https://www.kenwood.com/india/com/lmr/tkr-750_850/spec.html" target="_blank">Our VHF Repeater is a Kenwood TKR-850</a>
+
+VHF Propogation Map
+---
+![Bryanston  Highsite](/assets/images/repeaters/vhf-propogation.png)

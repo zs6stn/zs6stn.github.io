@@ -1,6 +1,8 @@
 ---
 title: "Posts by Tag"
-permalink: /tags/
-layout: tags
-author_profile: true
+permalink: /posts/tags/
+layout: tag
+author_profile: false
+sidebar:
+  nav: "posts"
 ---

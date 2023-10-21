@@ -4,21 +4,12 @@ main:
     url: /about
   - title: "Repeaters"
     url: /repeaters
-    children:
-      - title: "Quick-Start Guide"
-        url: /repeaters/quick-start-guide/
-      - title: "Structure"
-        url: /repeaters/structure/
-      - title: "Installation"
-        url: /repeaters/installation/
-      - title: "Upgrading"
-        url: /repeaters /upgrading/
   - title: "Posts"
-    url: /year-archive/
+    url: /posts/tags/
   - title: "Collections"
     url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  # - title: "Sitemap"
+  #   url: /sitemap/
   # - title: "Extra Menu Item 1"
   #   url: /
   # - title: "Extra Menu Item 2"
@@ -39,6 +30,17 @@ repeaters:
         url: /repeaters/dstar/
       - title: "EchoLink"
         url: /repeaters/echolink/
+
+# posts:
+#   - title: "Posts"
+#     children:
+#       - title: "By Tags"
+#         url: /posts/tags/
+#      - title: "By Tags (Grid View)"
+#         url: /posts/tags-grid/
+#       - title: "By Year"
+#         url: /posts/year/
+
 # sidebar navigation list sample
 sidebar-sample:
   - title: "Parent Page A"
