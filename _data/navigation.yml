@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Sandton Amateur Radio Club"
-    url: /
+  # - title: "Sandton Amateur Radio Club"
+  #   url: /
   - title: "About"
     url: /about
   - title: "Repeaters"
