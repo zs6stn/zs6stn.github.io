@@ -29,8 +29,6 @@ main:
 repeaters:
   - title: "Repeaters"
     children:
-      - title: "EchoLink"
-        url: /repeaters/echolink/
       - title: "VHF"
         url: /repeaters/vhf/
       - title: "UHF"
@@ -39,6 +37,8 @@ repeaters:
         url: /repeaters/dmr/
       - title: "D-Star"
         url: /repeaters/dstar/
+      - title: "EchoLink"
+        url: /repeaters/echolink/
 # sidebar navigation list sample
 sidebar-sample:
   - title: "Parent Page A"
