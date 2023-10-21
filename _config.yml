@@ -16,7 +16,7 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin : "dark" 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sandton Amatuer Radio Club"
+title                    : "Sandton Amateur Radio Club"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "SARC"

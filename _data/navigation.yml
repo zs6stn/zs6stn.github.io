@@ -36,11 +36,11 @@ repeaters:
 sarc:
   - title: "About"
     children:
-      - title: "Sandton Amatuer Radio Club"
+      - title: "Sandton Amateur Radio Club"
         url: "/about/sarc/"
       - title: "What is Amateur Radio (HAM)"
         url: "/about/ham/"
-      - title: "Radio Amatuer Examination"
+      - title: "Radio Amateur Examination"
         url: "/about/rae/"
 
 # posts:

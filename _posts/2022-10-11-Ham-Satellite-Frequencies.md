@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: Amatuer Radio Satellite Frequencies
+title: Amateur Radio Satellite Frequencies
 author: justin
 date: 2022-10-11
 categories: [Satellite Radio]
@@ -10,7 +10,7 @@ toc: false
 
 [Ham Satellite Frequencies on GitHub](https://github.com/zs6stn/Ham-Satellite-Frequencies)
 
-These are a collection for radio frequencies used to contact or make contact via satellites for the amatuer radio hobby
+These are a collection for radio frequencies used to contact or make contact via satellites for the Amateur radio hobby
 
 The image currently support the following Satellites: SO50, AO85, AO91, AO92, A092, AO95, IO86, CAS3H, DIW2, PO101, ISS
  

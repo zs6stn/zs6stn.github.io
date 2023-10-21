@@ -4,7 +4,7 @@ title: RAE - Class-A General Information
 author: justin
 date: 2022-10-11
 categories: [Radio Amateur Exam]
-tags: [RAE, Radio Amatuer Exam, Learning]
+tags: [RAE, Radio Amateur Exam, Learning]
 toc: false
 ---
 
