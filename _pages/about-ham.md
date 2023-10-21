@@ -3,7 +3,7 @@ title: What is Amateur Radio (HAM)
 layout: tag
 permalink: /about/ham/
 taxonomy: markup
-sidebar:
+sidebar: 
   nav: "sarc"
 ---
 

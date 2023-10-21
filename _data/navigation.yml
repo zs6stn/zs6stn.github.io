@@ -8,10 +8,10 @@ main:
     url: /repeaters
   - title: "Posts"
     url: /posts/tags/
-  - title: "Collections"
-    url: /collection-archive/
+  # - title: "Collections"
+  #   url: /collection-archive/
   # - title: "Sitemap"
-  #   url: /sitemap/
+  #   url: /sitemap/ 
   # - title: "Extra Menu Item 1"
   #   url: /
   # - title: "Extra Menu Item 2"
