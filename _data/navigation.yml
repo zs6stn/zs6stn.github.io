@@ -33,6 +33,16 @@ repeaters:
       - title: "EchoLink"
         url: /repeaters/echolink/
 
+sarc:
+  - title: "About"
+    children:
+      - title: "Sandton Amatuer Radio Club"
+        url: "/about/sarc/"
+      - title: "What is Amateur Radio (HAM)"
+        url: "/about/ham/"
+      - title: "Radio Amatuer Examination"
+        url: "/about/rae/"
+
 # posts:
 #   - title: "Posts"
 #     children:
