@@ -9,7 +9,7 @@ taxonomy: markup
 sidebar:
   nav: "sarc"
 redirect_from:
-  - /bulletinreaders/
+  - /bulletins/
 ---
 This club bulletin is broadcast every Sunday at 08.45 local time on the following frequencies:
 
