@@ -25,4 +25,4 @@ D-Star  Repeater Information
 
 D-Star Propogation Map
 ---
-![SAIEE](/assets/images/repeaters/dstar-propogation.png)
+![SAIEE](/assets/images/repeaters/dstar-propogation2.png)
