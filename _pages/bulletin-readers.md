@@ -16,3 +16,5 @@ This club bulletin is broadcast every Sunday at 08.45 local time on the followin
     - 145,700 MHz FM-N in the 2 metre band
     - 7,115	MHz	lower sideband in the 40m band
     - Echo Link	ZS6STN-R (Node No:901594) 
+
+<h2>Meet our Bulletin Readers</h2>
