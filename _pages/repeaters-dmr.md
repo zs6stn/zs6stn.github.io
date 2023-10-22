@@ -7,7 +7,7 @@ sidebar:
   nav: "repeaters"
 ---
 
-UHF  Repeater Information
+DMR  Repeater Information
 ---
 
 | DMR Repeater |   |
