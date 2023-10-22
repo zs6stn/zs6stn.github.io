@@ -17,7 +17,7 @@ UHF  Repeater Information
 | __Callsign__ | ZU9NRC |
 | __TX Frequency__ | 438.800 MHz (88.5 Hz) |
 | __RX Frequency__ | 431.200 MHz |
-| Shift | -7.600 MHz |
+| __Shift__ | -7.600 MHz |
 | __Latitude__ | 26° 03' 28" S |
 | __Longitude__ | 28° 01' 31" E |
 |||

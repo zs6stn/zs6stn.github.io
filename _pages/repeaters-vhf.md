@@ -16,7 +16,7 @@ VHF Repeater Information
 | __Callsign__ | ZU9NRB |
 | __TX Frequency__ | 145.700 MHz (88.5 Hz) |
 | __RX Frequency__ | 145.100 MHz |
-| Shift | -0.600 MHz |
+| __Shift__ | -0.600 MHz |
 | __Latitude__ | 26° 03' 28" S |
 | __Longitude__ | 28° 01' 31" E |
 |||
