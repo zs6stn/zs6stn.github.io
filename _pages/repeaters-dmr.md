@@ -24,7 +24,7 @@ DMR  Repeater Information
 | __Color Code__ | 1 |
 | __Timeslot 1__ | none (International Talk Groups) |
 | __Timeslot 2__ | 655 & 6556 (National Talk Groups)|
-
+| __Nickname__ | DMR |
 
 DMR Propogation Map
 ---

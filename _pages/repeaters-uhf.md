@@ -21,6 +21,7 @@ UHF  Repeater Information
 | __Location__ | Bryanston Water Tower |
 | __Latitude__ | 26° 03' 28" S |
 | __Longitude__ | 28° 01' 31" E |
+| __Nickname__ | 800 |
 
 UHF Propogation Map
 ---
