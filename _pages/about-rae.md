@@ -49,4 +49,9 @@ Weekly classes cover the following topics, which are in the study guide.
 The amateur radio examinations are generally held twice a year, towards the end of May and October of each year. It is recommended that you register as soon as possible and upload all the required documents as per the “RAE Registration information sheet V6.1” This document and the RAE Registration page can be found at the following link:
 http://www.sarl.org.za/Web3/RAE/RAERegistration.aspx
 
-For more information email  <a href="javascript:location.href = 'mailto:' + ['rae','zs6stn.org.za'].join('@')" aria-label="email"><i class="fas fa-envelope">rae[at]zs6stn.org.za</i></a>
+| Contact Details|  |
+| ----------- | ----------- |
+|Radio Amateur Exam|<a href="javascript:location.href = 'mailto:' + ['rae','zs6stn.org.za'].join('@')" aria-label="email"><i class="fas fa-envelope"> rae[at]zs6stn.org.za</i></a>|
+|Membership|<a href="javascript:location.href = 'mailto:' + ['join','zs6stn.org.za'].join('@')" aria-label="email"><i class="fas fa-envelope"> join[at]zs6stn.org.za</i></a>|
+|General|<a href="javascript:location.href = 'mailto:' + ['info','zs6stn.org.za'].join('@')" aria-label="email"><i class="fas fa-envelope"> info[at]zs6stn.org.za</i></a>|
+
