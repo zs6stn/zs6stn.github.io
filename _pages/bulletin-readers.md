@@ -1,5 +1,5 @@
 ---
-title: Bulletin Readers
+title: Weekly Bulletins
 layout: collection
 permalink: /about/bulletins/
 collection: bulletinreaders
@@ -11,7 +11,7 @@ sidebar:
 redirect_from:
   - /bulletins/
 ---
-This club bulletin is broadcast every Sunday at 08.45 local time on the following frequencies:
+This club bulletin is broadcast every Sunday at 08.45 local time (SAST) on the following frequencies:
 
     - 145,700 MHz FM-N in the 2 metre band
     - 7,115	MHz	lower sideband in the 40m band
