@@ -8,10 +8,8 @@ sidebar:
 tags: [Club, Repeaters, VHF, UHF, DMR, D-Star]
 ---
 
-Frequencies
----
 
-Our Repeaters are as follows:
+The Sandton Amateur Radio Club hosts the following Repeaters:
 - VHF - 2M Analog [145.700 MHz]   (Echolink ZS6STN-R) 
 - UHF - 70cm Analog [438.800 MHz]  (Echolink ZS6STN-L)
 - Digital - 70cm DMR [438.35000 MHZ] (Color Code 1)
