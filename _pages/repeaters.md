@@ -1,5 +1,5 @@
 ---
-title: Our Repeaters
+title: Repeaters
 layout: tag
 permalink: /repeaters/
 taxonomy: markup

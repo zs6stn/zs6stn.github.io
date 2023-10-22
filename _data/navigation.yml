@@ -8,6 +8,9 @@ main:
     url: /repeaters
   - title: "Posts"
     url: /posts/tags/
+  - title: "Search"
+    url: /search/
+    icon: "ga fa-search"
   # - title: "Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
@@ -43,15 +46,15 @@ sarc:
       - title: "Radio Amateur Examination"
         url: "/about/rae/"
 
-# posts:
-#   - title: "Posts"
-#     children:
-#       - title: "By Tags"
-#         url: /posts/tags/
-#      - title: "By Tags (Grid View)"
-#         url: /posts/tags-grid/
-#       - title: "By Year"
-#         url: /posts/year/
+posts:
+  - title: "Posts by Tag"
+    children:
+      - title: "Posts by Tags"
+        url: "/posts/tags/"
+      - title: "Posts by Year"
+        url: "/posts/year-archive/"
+      # - title: "Posts by Collection"
+      #   url: "/posts/collection-archive/"
 
 # sidebar navigation list sample
 sidebar-sample:

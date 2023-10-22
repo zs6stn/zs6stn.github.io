@@ -1,7 +1,9 @@
 ---
 title: "Posts by Year (grid view)"
-permalink: /year-archive-grid/
+permalink: /posts/year-archive-grid/
 layout: posts
 entries_layout: grid
-author_profile: true
+author_profile: false
+sidebar:
+  nav: "posts"
 ---
