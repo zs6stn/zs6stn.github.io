@@ -45,6 +45,8 @@ sarc:
         url: "/about/ham/"
       - title: "Radio Amateur Examination"
         url: "/about/rae/"
+      - title: "Bulletin Readers"
+        url: "/about/bulletins/"
 
 posts:
   - title: "Posts by Tag"
