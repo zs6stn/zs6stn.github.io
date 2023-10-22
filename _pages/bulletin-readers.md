@@ -1,10 +1,15 @@
 ---
 title: Bulletin Readers
-layout: tag
+layout: collection
 permalink: /about/bulletins/
+collection: bulletinreaders
+entries_layout: grid
+classes: wide
 taxonomy: markup
 sidebar:
   nav: "sarc"
+redirect_from:
+  - /bulletinreaders/
 ---
 This club bulletin is broadcast every Sunday at 08.45 local time on the following frequencies:
 
