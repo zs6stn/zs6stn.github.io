@@ -3,7 +3,7 @@ main:
   # - title: "Sandton Amateur Radio Club"
   #   url: /
   - title: "About"
-    url: /about/sarc/
+    url: /about/
   - title: "Repeaters"
     url: /repeaters
   - title: "Posts"
