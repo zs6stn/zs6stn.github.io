@@ -21,7 +21,6 @@ D-Star  Repeater Information
 | __Location__ | <a href="https://www.saiee.org.za/" target="_blank">SAIEE</a> |
 | __Latitude__ | 26° 11' 6" S |
 | __Longitude__ | 28° 4' 31" E |
-|||
 
 D-Star Propogation Map
 ---
