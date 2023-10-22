@@ -234,7 +234,7 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
   - jekyll-redirect-from
-  
+
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-paginate
@@ -310,13 +310,21 @@ defaults:
       layout: single
       author_profile: false
       share: true
-
+  # _committee
+  - scope:
+      path: ""
+      type: committee
+    values:
+      layout: single
+      author_profile: false
+      share: true
+      
 # Collections
 collections:
   recipes:
     output: true
     permalink: /:collection/:path/
-  pets:
+  committee:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -325,3 +333,5 @@ collections:
   bulletinreaders:
     output: true
     permalink: /:collection/:path/
+
+    

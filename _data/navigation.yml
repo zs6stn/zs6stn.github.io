@@ -47,6 +47,10 @@ sarc:
         url: "/about/rae/"
       - title: "Bulletin Readers"
         url: "/about/bulletins/"
+      - title: "Committee Members"
+        url: "/about/committee/"
+      - title: "Join the Club"
+        url: "/about/join/"
 
 posts:
   - title: "Posts by Tag"
