@@ -12,15 +12,17 @@ Frequencies
 ---
 
 Our Repeaters are as follows:
-- 2 M Analog [145.700 MHz]   (Echolink ZS6STN-R) 
-- 2 M Dstar [145.5875 MHz]
-- 70 CM DMR [438.35000 MHZ] (Color Code 1)
-- 70 CM Analog [438.800 MHz]  (Echolink ZS6STN-L)
+- VHF - 2M Analog [145.700 MHz]   (Echolink ZS6STN-R) 
+- UHF - 70cm Analog [438.800 MHz]  (Echolink ZS6STN-L)
+- Digital - 70cm DMR [438.35000 MHZ] (Color Code 1)
+- Digital - 2M D-Star [145.5875 MHz]
 
 
-High Site
+High Sites
 ---
 
-Our Highsite is hosted at the Bryanston water tower.
+Our main Highsite is hosted at the Bryanston water tower.
 
 ![Bryanston  Highsite](/assets/images/repeaters/HighSite.jpg)
+
+Our secondary Highsite is hosted at the <a href="https://www.saiee.org.za/" target="_blank">SAIEE</a>.

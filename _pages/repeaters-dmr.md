@@ -17,6 +17,7 @@ UHF  Repeater Information
 | __TX Frequency__ | 438.350 MHz (88.5 Hz) |
 | __RX Frequency__ | 430.750 MHz |
 | __Shift__ | -7.600 MHz |
+| __Location__ | Bryanston Water Tower |
 | __Latitude__ | 26° 03' 28" S |
 | __Longitude__ | 28° 01' 31" E |
 | __DMR Network__ | <a href="https://brandmeister.network/?page=device&id=655002" target="_blank">Brandmeister</a> |
