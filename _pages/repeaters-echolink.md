@@ -7,4 +7,4 @@ sidebar:
   nav: "repeaters"
 ---
 
-Sample post listing for the tag `markup`.
+Our EchoLink callsign is ZS6STN-R (Node No:901594).
