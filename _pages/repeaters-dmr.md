@@ -25,6 +25,6 @@ UHF  Repeater Information
 | __Timeslot 2__ | 655 & 6556 (National Talk Groups)|
 |||
 
-VHF Propogation Map
+DMR Propogation Map
 ---
 ![Bryanston  Highsite](/assets/images/repeaters/dmr-propogation2.png)
