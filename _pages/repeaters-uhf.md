@@ -7,7 +7,20 @@ sidebar:
   nav: "repeaters"
 ---
 
-<a href="https://www.kenwood.com/india/com/lmr/tkr-750_850/spec.html" target="_blank">Our UHF Repeater is a Kenwood TKR-850</a>
+
+UHF  Repeater Information
+---
+
+| |   |
+|---|---|
+|__Brand__| <a href="https://www.kenwood.com/india/com/lmr/tkr-750_850/spec.html" target="_blank">Kenwood TKR-850</a> |
+| __Callsign__ | ZU9NRC |
+| __TX Frequency__ | 438.800 MHz (88.5 Hz) |
+| __RX Frequency__ | 431.200 MHz |
+| Shift | -7.600 MHz |
+| __Latitude__ | 26° 03' 28" S |
+| __Longitude__ | 28° 01' 31" E |
+|||
 
 UHF Propogation Map
 ---
