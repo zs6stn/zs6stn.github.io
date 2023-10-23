@@ -32,7 +32,7 @@ Whatever your interest in radio communications, you will find others sharing tha
 Local radio clubs can help you grow and develop. And remember, Amateur Radio offers enjoyment for you and your family as well. Amateur activities like Direction Finding (similar to orienteering but with a high-tech “spin”), field days, Summits on the Air, IOTA can be “family friendly”, allowing your family to enjoy your amateur radio activities as well!
 
 Youngsters are activly involved in amateur radio, more info, check out the Hammies Radio Club.
-
+ 
 <h2 data-toc-skip>What can I do with Amateur Radio?</h2>
 Whilst the Internet has brought us instant world-wide email, VOIP and video communication, it is tied to an infrastructure of enormous proportions. With Amateur Radio, you are communicating directly, “point-to-point” with no intermediate infrastructure. You are also communicating with people in their cars, on ships, on remote islands, and in under-developed parts of the world. But perhaps more importantly, Amateur Radio is not just about communicating — it’s about exploring the technology that makes radio communication work — the electronics, the antennas, the propagation characteristics of the ionosphere, and even computers that are linked to radio equipment for all sorts of purposes including specialized modes of communication, station logging, propagation prediction, etc.
 
