@@ -38,7 +38,7 @@ gallery:
 
 Hello, fellow radio enthusiasts! I'm Justin, and I've been an active member of the Sandton Amateur Radio Club for the past seven years. During my journey with the club, I've had the honor of serving on the committee for over four years, taking on a pivotal role managing the Repeater Working Group.
 
-Our club, based in the vibrant city of Sandton, is all about the world of amateur radio. We're passionate about fostering connections, exploring cutting-edge technologies, and pushing the boundaries of communication. With our diverse range of repeaters, including VHF, UHF, DMR, DStar, and EchoLink, we're at the forefront of amateur radio innovation.
+Our club, based in the vibrant city of Sandton, is all about the world of amateur radio. We're passionate about fostering connections, exploring cutting-edge technologies, and pushing the boundaries of communication. With our diverse range of repeaters, including VHF, UHF, DMR, D-Star, and EchoLink, we're at the forefront of amateur radio innovation.
 
 As the Technical Guru of the club, my primary responsibility is to ensure that our repeaters are not just operational but are consistently optimized for peak performance. It's a role that requires a keen eye for technical detail and a genuine love for all things radio-related. From maintaining our existing infrastructure to exploring new technologies and implementing upgrades, I relish every moment of the process.
 
