@@ -22,7 +22,7 @@ gallery:
 2016
 
 ### How you started
-Signed up not knowing anything about the hobby
+Spur-of-the-moment signed up for the RAE
 
 ### Most Memorable Contact
 Georgia USA, 13000+ km on a home made antenna
