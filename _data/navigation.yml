@@ -39,6 +39,9 @@ repeaters:
         url: /repeaters/dstar/
       - title: "EchoLink"
         url: /repeaters/echolink/
+      - title: "System Status"
+        url: "https://stats.uptimerobot.com/m70wYF5moL"
+        target: "_blank"
 
 sarc:
   - title: "About"
