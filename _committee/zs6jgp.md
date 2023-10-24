@@ -31,7 +31,7 @@ Georgia USA, 13000+ km on a home made antenna
 The technical aspects, all of them
 
 ### Favorite Modes
-FM,SSB,DMR
+FM, SSB, DMR
 
 ### About Justin 
 Hello, fellow radio enthusiasts! I'm Justin, and I've been an active member of the Sandton Amateur Radio Club for the past seven years. During my journey with the club, I've had the honor of serving on the committee for over four years, taking on a pivotal role managing the Repeater Working Group.
