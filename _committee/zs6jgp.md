@@ -8,19 +8,11 @@ header:
 sidebar:
   - title: "Position"
     text: "Technical Guru"
-  - title: "Licensed Since"
+  - title: " "
     image: /assets/images/committee/zs6jgp.jpg
     image_alt: "ZS6JGP"
-    text: "2016"
-  - title: "How you started"
-    text: "Signed up not knowing anything about the hobby"
-  - title: "Most Memorable Contact"
-    text: "Georgia USA, 13000+ km on a home made antenna"
-  - title: "Best part of the Hobby"
-    text: "The technical aspects, all of them"
-  - title: "Favorite Modes"
-    text: "FM,SSB,DMR"
-  
+
+
 gallery:
   - url: /assets/images/committee/zs6jgp-1.jpg
     image_path: assets/images/committee/zs6jgp-1.jpg
@@ -35,7 +27,22 @@ gallery:
   #   image_path: assets/images/unsplash-gallery-image-3-th.jpg
   #   alt: "placeholder image 3"
 ---
+### Licensed Since
+2016
 
+### How you started
+Signed up not knowing anything about the hobby
+
+### Most Memorable Contact
+Georgia USA, 13000+ km on a home made antenna
+
+### Best part of the Hobby
+The technical aspects, all of them
+
+### Favorite Modes
+FM,SSB,DMR
+
+### About Justin 
 Hello, fellow radio enthusiasts! I'm Justin, and I've been an active member of the Sandton Amateur Radio Club for the past seven years. During my journey with the club, I've had the honor of serving on the committee for over four years, taking on a pivotal role managing the Repeater Working Group.
 
 Our club, based in the vibrant city of Sandton, is all about the world of amateur radio. We're passionate about fostering connections, exploring cutting-edge technologies, and pushing the boundaries of communication. With our diverse range of repeaters, including VHF, UHF, DMR, D-Star, and EchoLink, we're at the forefront of amateur radio innovation.
