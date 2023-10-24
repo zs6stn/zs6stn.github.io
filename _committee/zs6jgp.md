@@ -15,6 +15,9 @@ sidebar:
   - title: "Favorite Mode"
     text: "SSB"
 gallery:
+  - url: /assets/images/committee/zs6jgp-1.jpg
+    image_path: assets/images/committee/zs6jgp-1.jpg
+    alt: "ZS6JGP"
   - url: /assets/images/committee/zs6jgp.jpg
     image_path: assets/images/committee/zs6jgp.jpg
     alt: "ZS6JGP"
