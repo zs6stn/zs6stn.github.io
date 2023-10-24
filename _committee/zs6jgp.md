@@ -3,7 +3,6 @@ title: "Justin ZS6JGP"
 permalink: /about/committee/zs6jgp/
 excerpt: "The Technical Guru"
 header:
-#  image: /assets/images/committee/zs6jgp.jpg
   teaser: assets/images/committee/zs6jgp.jpg
 sidebar:
   - title: "Position"
@@ -11,8 +10,6 @@ sidebar:
   - title: " "
     image: /assets/images/committee/zs6jgp.jpg
     image_alt: "ZS6JGP"
-
-
 gallery:
   - url: /assets/images/committee/zs6jgp-1.jpg
     image_path: assets/images/committee/zs6jgp-1.jpg
@@ -20,12 +17,6 @@ gallery:
   - url: /assets/images/committee/zs6jgp.jpg
     image_path: assets/images/committee/zs6jgp.jpg
     alt: "ZS6JGP"
-  # - url: /assets/images/unsplash-gallery-image-2.jpg
-  #   image_path: assets/images/unsplash-gallery-image-2-th.jpg
-  #   alt: "placeholder image 2"
-  # - url: /assets/images/unsplash-gallery-image-3.jpg
-  #   image_path: assets/images/unsplash-gallery-image-3-th.jpg
-  #   alt: "placeholder image 3"
 ---
 ### Licensed Since
 2016
