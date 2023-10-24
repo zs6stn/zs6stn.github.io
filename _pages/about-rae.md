@@ -7,7 +7,7 @@ sidebar:
   nav: "sarc"
 ---
 
-If you already know what Amateur Radio is an you want to do your license, you have come to the right place.
+If you already know what Amateur Radio is and you want to do your licence, you have come to the right place.
 
 <h2 data-toc-skip>Sandton Radio Amateur Club's RAE :: Class-A General Information</h2>
 
@@ -51,7 +51,11 @@ http://www.sarl.org.za/Web3/RAE/RAERegistration.aspx
 
 | Contact Details|  |
 | ----------- | ----------- |
-|Radio Amateur Exam|<a href="javascript:location.href = 'mailto:' + ['rae','zs6stn.org.za'].join('@')" aria-label="email"><i class="fas fa-envelope"> rae[at]zs6stn.org.za</i></a>|
-|Membership|<a href="javascript:location.href = 'mailto:' + ['join','zs6stn.org.za'].join('@')" aria-label="email"><i class="fas fa-envelope"> join[at]zs6stn.org.za</i></a>|
-|General|<a href="javascript:location.href = 'mailto:' + ['info','zs6stn.org.za'].join('@')" aria-label="email"><i class="fas fa-envelope"> info[at]zs6stn.org.za</i></a>|
+| <i class="fa fa-globe"></i> WebSite |  [https://zs6stn.org.za/](https://zs6stn.org.za/) |
+| <i class="fab fa-facebook"></i> Facebook | [https://www.facebook.com/groups/ZS6STN/](https://www.facebook.com/groups/ZS6STN/){:target="_blank"} |
+| <i class="fab fa-youtube"></i> YouTube | [https://www.youtube.com/@zs6stn](https://www.youtube.com/@zs6stn){:target="_blank"} |
+| <i class="fas fa-envelope"></i> Radio Amateur Exam|<a href="javascript:location.href = 'mailto:' + ['rae','zs6stn.org.za'].join('@')" aria-label="email"> rae[at]zs6stn.org.za</a>|
+| <i class="fas fa-envelope"></i> Membership|<a href="javascript:location.href = 'mailto:' + ['join','zs6stn.org.za'].join('@')" aria-label="email">join[at]zs6stn.org.za</a>|
+| <i class="fas fa-envelope"></i> General|<a href="javascript:location.href = 'mailto:' + ['info','zs6stn.org.za'].join('@')" aria-label="email">info[at]zs6stn.org.za</a>|
+
 

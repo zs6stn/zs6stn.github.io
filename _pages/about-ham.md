@@ -37,17 +37,8 @@ Employers in the high technology industries often seek people who combine the th
 
  
 <h2 data-toc-skip>Getting Started in Amateur Radio</h2>
-Anyone can listen in to amateur radio transmissions. If you’re new to amateur radio, then listening-in for a while is a good way to get a feel for what is going on. To become a radio amateur, licensed to transmit, you will need a brief period of study, and to pass a simple practical and theory examination.
+Anyone can listen in to amateur radio transmissions. If you’re new to amateur radio, then listening-in for a while is a good way to get a feel for what is going on. To become a radio amateur, licenced to transmit, you will need a brief period of study, and to pass a simple practical and theory examination.
 
 The Sandton Amateur Radio Club provides the training for the Radio Amateur Exam (RAE) organized twice a year by the South African Amateur Radio League (SARL) to enable you to become a radio amateur. 
 
 Watch this Video to get an idea of what is fun about getting into Ham Radio. The Sandton Amateur Radio Club will help you do so if you are interested.
-
-
-
-| Contact Details|  |
-| ----------- | ----------- |
-|Radio Amateur Exam|<a href="javascript:location.href = 'mailto:' + ['rae','zs6stn.org.za'].join('@')" aria-label="email"><i class="fas fa-envelope"> rae[at]zs6stn.org.za</i></a>|
-|Membership|<a href="javascript:location.href = 'mailto:' + ['join','zs6stn.org.za'].join('@')" aria-label="email"><i class="fas fa-envelope"> join[at]zs6stn.org.za</i></a>|
-|General|<a href="javascript:location.href = 'mailto:' + ['info','zs6stn.org.za'].join('@')" aria-label="email"><i class="fas fa-envelope"> info[at]zs6stn.org.za</i></a>|
-

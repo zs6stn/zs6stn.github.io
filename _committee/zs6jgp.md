@@ -10,14 +10,14 @@ sidebar:
     text: "Technical"
   - title: "Years a HAM"
     image: /assets/images/committee/zs6jgp.jpg
-    image_alt: "zs6jgp"
+    image_alt: "ZS6JGP"
     text: "6 Years"
   - title: "Favorite Mode"
     text: "SSB"
 gallery:
   - url: /assets/images/committee/zs6jgp.jpg
     image_path: assets/images/committee/zs6jgp.jpg
-    alt: "zs6jgp"
+    alt: "ZS6JGP"
   # - url: /assets/images/unsplash-gallery-image-2.jpg
   #   image_path: assets/images/unsplash-gallery-image-2-th.jpg
   #   alt: "placeholder image 2"

@@ -19,12 +19,3 @@ We have several repeaters in Johannesburg, see more details about [our Repeaters
 The club fosters friendships between radio amateurs and promotes the amateur radio hobby. The club also provides an excellent radio infrastructure by maintaining a high-quality repeater park at one of the highest sites in Johannesburg offering 2 meter, 70 cm and Dstar communication facilities that are available as backup communications in emergencies and during disasters.
 
 The Sandton Amateur Radio club is affiliated with the [South African Radio League](http://www.sarl.org.za/){:target="_blank"}. 
-
-
-
-| Contact Details|  |
-| ----------- | ----------- |
-|Radio Amateur Exam|<a href="javascript:location.href = 'mailto:' + ['rae','zs6stn.org.za'].join('@')" aria-label="email"><i class="fas fa-envelope"> rae[at]zs6stn.org.za</i></a>|
-|Membership|<a href="javascript:location.href = 'mailto:' + ['join','zs6stn.org.za'].join('@')" aria-label="email"><i class="fas fa-envelope"> join[at]zs6stn.org.za</i></a>|
-|General|<a href="javascript:location.href = 'mailto:' + ['info','zs6stn.org.za'].join('@')" aria-label="email"><i class="fas fa-envelope"> info[at]zs6stn.org.za</i></a>|
-

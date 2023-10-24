@@ -141,6 +141,9 @@ footer:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       url: "https://www.facebook.com/groups/ZS6STN/"
+    - label: "YouTube"
+      icon: "fab fa-fw fa-youtube-square"
+      url: "https://www.youtube.com/@zs6stn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/zs6stn"
@@ -153,7 +156,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-
+    - label: "Contact Details"
+      icon: "fa-regular fa-address-card"
+      url: "/about/contact/"
 
 # Reading Files
 include:

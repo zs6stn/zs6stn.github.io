@@ -4,13 +4,17 @@ main:
   #   url: /
   - title: "About"
     url: /about/
+    description: Information about SARC
   - title: "Repeaters"
-    url: /repeaters
+    url: /repeaters/
+    description: Our Repeaters
   - title: "Posts"
     url: /posts/tags/
+    description: TechTalks and Blog Posts
   - title: "Search"
     url: /search/
-    icon: "ga fa-search"
+    description: Search SARC
+    image: "fas fa-search"
   # - title: "Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
@@ -45,12 +49,16 @@ sarc:
         url: "/about/ham/"
       - title: "Radio Amateur Examination (RAE)"
         url: "/about/rae/"
+      - title: YouTube Channel
+        url: "/about/youtube/"
       - title: "Weekly Bulletins"
         url: "/about/bulletins/"
       - title: "Committee Members"
         url: "/about/committee/"
       - title: "Join the Club"
         url: "/about/join/"
+      - title: "Contact Details"
+        url: "/about/contact/"
 
 posts:
   - title: "Posts by Tag"

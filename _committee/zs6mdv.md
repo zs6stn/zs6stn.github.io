@@ -10,14 +10,14 @@ sidebar:
     text: "Club Secretary"
   - title: "Years a HAM"
     image: /assets/images/committee/missing.png
-    image_alt: "zs6mdv"
+    image_alt: "ZS6MDV"
     text: "6 Years"
   - title: "Favorite Mode"
     text: "SSB"
 gallery:
   - url: /assets/images/committee/missing.png
     image_path: assets/images/committee/missing.png
-    alt: "zs6mdv"
+    alt: "ZS6MDV"
   # - url: /assets/images/unsplash-gallery-image-2.jpg
   #   image_path: assets/images/unsplash-gallery-image-2-th.jpg
   #   alt: "placeholder image 2"

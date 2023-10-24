@@ -9,7 +9,7 @@ toc: false
 pin: true
 ---
 
-If you already know what Amateur Radio is an you want to do your license, visit our Radio Amateur Exam page.
+If you already know what Amateur Radio is and you want to do your licence, visit our Radio Amateur Exam page.
 
 Amateur radio operation is fun. Amateur radio operators acquire good technical knowledge in executing their hobby and build new skills ranging from antenna building to building radios and linear amplifiers. Wireless amateur communication allows making contacts around the world on frequencies ranging from 1.8 MHz to several hundred for learning and entertainment purposes. But ham radio also has a serious side as it can provide communication during states of emergency. Ham radio works when all other services fail. 
 
@@ -41,7 +41,7 @@ Employers in the high technology industries often seek people who combine the th
 
  
 <h2 data-toc-skip>Getting Started in Amateur Radio</h2>
-Anyone can listen in to amateur radio transmissions. If you’re new to amateur radio, then listening-in for a while is a good way to get a feel for what is going on. To become a radio amateur, licensed to transmit, you will need a brief period of study, and to pass a simple practical and theory examination.
+Anyone can listen in to amateur radio transmissions. If you’re new to amateur radio, then listening-in for a while is a good way to get a feel for what is going on. To become a radio amateur, licenced to transmit, you will need a brief period of study, and to pass a simple practical and theory examination.
 
 The Sandton Amateur Radio Club provides the training for the Radio Amateur Exam (RAE) organized twice a year by the South African Amateur Radio League (SARL) to enable you to become a radio amateur. 
 
