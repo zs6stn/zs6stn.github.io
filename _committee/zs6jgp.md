@@ -18,7 +18,7 @@ gallery:
     image_path: assets/images/committee/zs6jgp.jpg
     alt: "ZS6JGP"
 ---
-### Licensed Since
+### Licenced Since
 2016
 
 ### How you started
