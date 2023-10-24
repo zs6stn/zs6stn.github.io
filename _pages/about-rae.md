@@ -47,7 +47,7 @@ Weekly classes cover the following topics, which are in the study guide.
 12. Review and mock exam
 
 The amateur radio examinations are generally held twice a year, towards the end of May and October of each year. It is recommended that you register as soon as possible and upload all the required documents as per the “RAE Registration information sheet V6.1” This document and the RAE Registration page can be found at the following link:
-http://www.sarl.org.za/Web3/RAE/RAERegistration.aspx
+[http://www.sarl.org.za/Web3/RAE/RAERegistration.aspx](http://www.sarl.org.za/Web3/RAE/RAERegistration.aspx){:target="_blank"}
 
 | Contact Details|  |
 | ----------- | ----------- |
