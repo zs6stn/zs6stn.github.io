@@ -7,13 +7,20 @@ header:
   teaser: assets/images/committee/zs6jgp.jpg
 sidebar:
   - title: "Position"
-    text: "Technical"
-  - title: "Years a HAM"
+    text: "Technical Guru"
+  - title: "Licensed Since"
     image: /assets/images/committee/zs6jgp.jpg
     image_alt: "ZS6JGP"
-    text: "6 Years"
-  - title: "Favorite Mode"
-    text: "SSB"
+    text: "2016"
+  - title: "How you started"
+    text: "Signed up not knowing anything about the hobby"
+  - title: "Most Memorable Contact"
+    text: "Georgia USA, 13000+ km on a home made antenna"
+  - title: "Best part of the Hobby"
+    text: "The technical aspects, all of them"
+  - title: "Favorite Modes"
+    text: "FM,SSB,DMR"
+  
 gallery:
   - url: /assets/images/committee/zs6jgp-1.jpg
     image_path: assets/images/committee/zs6jgp-1.jpg
