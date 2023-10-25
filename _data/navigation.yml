@@ -15,6 +15,7 @@ main:
     url: /search/
     description: Search SARC
     image: "fas fa-search"
+
   # - title: "Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
@@ -43,6 +44,7 @@ repeaters:
         url: "https://stats.uptimerobot.com/m70wYF5moL"
         target: "_blank"
 
+
 sarc:
   - title: "About"
     children:
@@ -62,7 +64,8 @@ sarc:
         url: "/about/join/"
       - title: "Contact Details"
         url: "/about/contact/"
-
+      - title: "Terms and Privacy Policy"
+        url: "/terms/"
 posts:
   - title: "Posts by Tag"
     children:

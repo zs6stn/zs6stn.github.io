@@ -5,7 +5,7 @@ author: justin
 date: 2021-08-05
 # categories: [Sandton Amateur Radio Club, Repeaters]
 tags: [Club, Repeaters, VHF, UHF, DMR, D-Star]
-toc: true
+toc: false
 ---
 
 Frequencies
