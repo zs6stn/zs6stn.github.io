@@ -3,7 +3,7 @@
 title: Amateur Radio Satellite Frequencies
 author: justin
 date: 2022-10-11
-categories: [Satellite Radio]
+# categories: [Satellite Radio]
 tags: [Satellite, Frequencies]
 toc: false
 ---

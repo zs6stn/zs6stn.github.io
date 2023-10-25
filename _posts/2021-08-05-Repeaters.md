@@ -3,13 +3,13 @@
 title: Repeaters
 author: justin
 date: 2021-08-05
-categories: [Sandton Amateur Radio Club, Repeaters]
+# categories: [Sandton Amateur Radio Club, Repeaters]
 tags: [Club, Repeaters, VHF, UHF, DMR, D-Star]
 toc: true
 ---
 
 Frequencies
----
+--- 
 
 Our Repeaters are as follows:
 - 2 M Analog [145.700 MHz]   Echolink ZS6STN-R

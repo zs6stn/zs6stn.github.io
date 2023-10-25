@@ -3,7 +3,7 @@
 title: Sandton Amateur Radio Club
 author: justin
 date: 2022-10-11
-categories: [Sandton Amateur Radio Club]
+# categories: [Sandton Amateur Radio Club]
 tags: [Amateur Radio, Club]
 toc: false
 pin: true
