@@ -52,7 +52,7 @@ sarc:
       - title: "Contact Details"
         url: "/about/contact/"
       - title: "Terms and Privacy Policy"
-        url: "/terms/"
+        url: "/about/terms/"
 posts:
   - title: "Posts by Tag"
     children:
