@@ -1,5 +1,7 @@
 source "https://rubygems.org"
-gemspec
+#gemspec
+gem "github-pages", group: :jekyll_plugins
+gem "jekyll-include-cache", group: :jekyll_plugins
 gem 'jekyll-redirect-from'
 # gem 'json'
 # gem "jekyll"
@@ -12,4 +14,4 @@ gem 'jekyll-redirect-from'
 # gem 'jekyll-sitemap'
 # gem 'jekyll-gist'
 # gem 'jekyll-feed'
-# gem 'jemoji'
+# gem 'jemoji' 
