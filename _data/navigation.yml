@@ -47,7 +47,7 @@ sarc:
         url: "/about/bulletins/"
       - title: "Committee Members"
         url: "/about/committee/"
-      - title: "Join the Club"
+      - title: "Join the Club"  
         url: "/about/join/"
       - title: "Contact Details"
         url: "/about/contact/"
