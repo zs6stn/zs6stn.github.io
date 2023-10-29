@@ -6,7 +6,7 @@ header:
   teaser: assets/images/committee/zs6jgp.jpg
 sidebar:
   - title: "Position"
-    text: "Technical Guru"
+    text: "The Technical Guru"
   - title: " "
     image: /assets/images/committee/zs6jgp.jpg
     image_alt: "ZS6JGP"
