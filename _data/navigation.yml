@@ -11,21 +11,9 @@ main:
   - title: "Posts"
     url: /posts/tags/
     description: TechTalks and Blog Posts
-  - title: "Search"
-    url: /search/
-    description: Search SARC
-    image: "fas fa-search"
-
-  # - title: "Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/ 
-  # - title: "Extra Menu Item 1"
-  #   url: /
-  # - title: "Extra Menu Item 2"
-  #   url: /
-  # - title: "Extra Menu Item Long Title"
-  #   url: /
+  # - title: "Search"
+  #   url: /search/
+  #   description: "Search SARC"
 
 repeaters:
   - title: "Repeaters"
