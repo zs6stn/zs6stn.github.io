@@ -5,9 +5,9 @@ permalink: /repeaters/
 taxonomy: markup
 sidebar:
   nav: "repeaters"
-tags: [Club, Repeaters, VHF, UHF, DMR, D-Star]
+#tags: [Club, Repeaters, VHF, UHF, DMR, D-Star]
+toc: true
 ---
-
 
 The Sandton Amateur Radio Club hosts the following Repeaters:
 - VHF - 2M Analog [145.700 MHz]   (Echolink ZS6STN-R) 

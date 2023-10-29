@@ -1,15 +1,16 @@
 ---
 title: "Matthew ZS6MDV"
 permalink: /about/committee/zs6mdv/
-excerpt: "Chairman"
+excerpt: "Committee Member"
 header:
-  teaser: assets/images/committee/zs6mdv.jpg
+  teaser: assets/images/committee/missing.png
 sidebar:
   - title: "Position"
-    text: "Technical Guru"
+    text: "Committee Member"
   - title: " "
-    image: /assets/images/committee/zs6mdv.jpg
+    image: assets/images/committee/missing.png
     image_alt: "ZS6MDV"
+
 gallery:
   - url: /assets/images/committee/zs6mdv-1.jpg
     image_path: assets/images/committee/zs6mdv-1.jpg

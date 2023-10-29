@@ -8,15 +8,12 @@ header:
 sidebar:
   - title: "Position"
     text: "Committee Member"
-  - title: "Years a HAM"
-    image: /assets/images/committee/missing.png
+  - title: " "
+    image: assets/images/committee/missing.png
     image_alt: "ZR6DE"
-    text: "6 Years"
-  - title: "Favorite Mode"
-    text: "SSB"
 gallery:
   - url: /assets/images/committee/missing.png
-    image_path: assets/images/committee/missing.png
+    image_path: /assets/images/committee/missing.png
     alt: "ZR6DE"
   # - url: /assets/images/unsplash-gallery-image-2.jpg
   #   image_path: assets/images/unsplash-gallery-image-2-th.jpg

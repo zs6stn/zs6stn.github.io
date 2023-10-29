@@ -8,12 +8,9 @@ header:
 sidebar:
   - title: "Position"
     text: "Committee Member"
-  - title: "Years a HAM"
-    image: /assets/images/committee/missing.png
-    image_alt: "zr6ms"
-    text: "6 Years"
-  - title: "Favorite Mode"
-    text: "SSB"
+  - title: " "
+    image: assets/images/committee/missing.png
+    image_alt: "ZR6MS"
 gallery:
   - url: /assets/images/committee/missing.png
     image_path: assets/images/committee/missing.png

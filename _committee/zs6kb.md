@@ -8,12 +8,10 @@ header:
 sidebar:
   - title: "Position"
     text: "Committee Member"
-  - title: "Years a HAM"
+  - title: " "
     image: /assets/images/committee/zs6kb.jpg
     image_alt: "ZS6KB"
-    text: "6 Years"
-  - title: "Favorite Mode"
-    text: "SSB"
+
 gallery:
   - url: /assets/images/committee/zs6kb.jpg
     image_path: assets/images/committee/zs6kb.jpg

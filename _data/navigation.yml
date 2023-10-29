@@ -44,7 +44,6 @@ repeaters:
         url: "https://stats.uptimerobot.com/m70wYF5moL"
         target: "_blank"
 
-
 sarc:
   - title: "About"
     children:

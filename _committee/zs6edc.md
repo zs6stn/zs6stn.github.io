@@ -7,13 +7,10 @@ header:
   teaser: assets/images/committee/missing.png
 sidebar:
   - title: "Position"
-    text: "RAE Manager"
-  - title: "Years a HAM"
-    image: /assets/images/committee/missing.png
+    text: "Committee Member"
+  - title: " "
+    image: assets/images/committee/missing.png
     image_alt: "ZS6EDC"
-    text: "6 Years"
-  - title: "Favorite Mode"
-    text: "SSB"
 gallery:
   - url: /assets/images/committee/missing.png
     image_path: assets/images/committee/missing.png

@@ -1,6 +1,7 @@
 ---
 # the default layout is 'page'
-title: Repeaters
+title: SARC Repeaters
+layout: tag
 author: justin
 date: 2021-08-05
 # categories: [Sandton Amateur Radio Club, Repeaters]
@@ -23,4 +24,4 @@ High Site
 
 Our Highsite is hosted at the Bryanston water tower.
 
-![Bryanston  Highsite](/repeaters/HighSite.jpg)
+![Bryanston  Highsite](/assets/images/repeaters/HighSite.jpg)

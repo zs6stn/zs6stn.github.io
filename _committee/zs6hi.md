@@ -1,12 +1,12 @@
 ---
 title: "Keith ZS6HI"
 permalink: /about/committee/zs6hi/
-excerpt: "Chairman"
+excerpt: "Chairman & Bulletin Reader"
 header:
   teaser: assets/images/committee/zs6hi.jpg
 sidebar:
   - title: "Position"
-    text: "Technical Guru"
+    text: "Chairman & Bulletin Reader"
   - title: " "
     image: /assets/images/committee/zs6hi.jpg
     image_alt: "ZS6HI"

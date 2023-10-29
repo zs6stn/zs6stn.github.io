@@ -1,26 +1,25 @@
 ---
 title: "Keith ZS6HI"
 permalink: /about/bulletins/zs6hi/
-excerpt: "Many years in the hobby :)"
+excerpt: "Chairman & Bulletin Reader"
 header:
 #  image: /assets/images/bulletin-readers/zs6hi.jpg
-  teaser: assets/images/bulletin-readers/missing.png
+  teaser: assets/images/committee/zs6hi.jpg
 sidebar:
-  - title: "Years a HAM"
-    image: /assets/images/bulletin-readers/missing.png
+  - title: "Position"
+    text: "Chairman & Bulletin Reader"
+  - title: " "
+    image: /assets/images/committee/zs6hi.jpg
     image_alt: "ZS6HI"
-    text: "15 Years"
-  - title: "Favorite Mode" 
-    text: "SSB"
 gallery:
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
-  - url: /assets/images/bulletin-readers/missing.png
-    image_path: assets/images/bulletin-readers/missing.png
+  - url: /assets/images/committee/zs6hi-1.jpg
+    image_path: assets/images/committee/zs6hi-1.jpg
+    alt: "ZS6HI"
+  - url: /assets/images/committee/zs6hi-2.jpg
+    image_path: assets/images/committee/zs6hi-2.jpg
+    alt: "ZS6HI"
+  - url: /assets/images/committee/zs6hi.jpg
+    image_path: assets/images/committee/zs6hi.jpg
     alt: "ZS6HI"
 ---
 
