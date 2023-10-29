@@ -12,8 +12,17 @@ sidebar:
     image: assets/images/committee/zr6jv.jpg
     image_alt: "ZR6JV"
 gallery:
+  - url: /assets/images/committee/zr6jv-3.jpg
+    image_path: assets/images/committee/zr6jv-3.jpg
+    alt: "ZR6JV"
+  - url: /assets/images/committee/zr6jv-4.jpg
+    image_path: assets/images/committee/zr6jv-4.jpg
+    alt: "ZR6JV"
   - url: /assets/images/committee/zr6jv-2.jpg
     image_path: assets/images/committee/zr6jv-2.jpg
+    alt: "ZR6JV"
+  - url: /assets/images/committee/zr6jv-5.jpg
+    image_path: assets/images/committee/zr6jv-5.jpg
     alt: "ZR6JV"
   - url: /assets/images/committee/zr6jv.jpg
     image_path: assets/images/committee/zr6jv.jpg
