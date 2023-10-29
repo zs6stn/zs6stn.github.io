@@ -14,6 +14,18 @@ gallery:
   - url: /assets/images/committee/zs6jgp-1.jpg
     image_path: assets/images/committee/zs6jgp-1.jpg
     alt: "ZS6JGP"
+  - url: /assets/images/committee/zs6jgp-2.png
+    image_path: assets/images/committee/zs6jgp-2.png
+    alt: "ZS6JGP"
+  - url: /assets/images/committee/zs6jgp-3.png
+    image_path: assets/images/committee/zs6jgp-3.png
+    alt: "ZS6JGP"
+  - url: /assets/images/committee/zs6jgp-4.jpg
+    image_path: assets/images/committee/zs6jgp-4.jpg
+    alt: "ZS6JGP"
+  - url: /assets/images/committee/zs6jgp-5.jpg
+    image_path: assets/images/committee/zs6jgp-5.jpg
+    alt: "ZS6JGP"
   - url: /assets/images/committee/zs6jgp.jpg
     image_path: assets/images/committee/zs6jgp.jpg
     alt: "ZS6JGP"
