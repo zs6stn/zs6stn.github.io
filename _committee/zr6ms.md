@@ -26,9 +26,23 @@ gallery:
   #   alt: "placeholder image 3"
 ---
 
-A short into into the reader, who they are, what they like in hobby etc.
-Supply 3 or more pictures, and select one as the main picture. 
+### Licenced Since
+-
 
-Etiam eget purus augue. Aenean faucibus vel mauris a condimentum. Maecenas lacinia ipsum nec tellus egestas eleifend. Praesent vel libero sed velit iaculis porta eu ut justo. Ut pharetra ligula tortor, at sodales augue auctor in. Nunc tempor sodales magna, ut elementum lorem pulvinar rhoncus. Sed a leo finibus, maximus ex quis, suscipit nibh.
+### How you started
+-
+
+### Most Memorable Contact
+-
+
+### Best part of the Hobby
+-
+
+### Favorite Modes
+-
+
+### About Marius 
+-
+
 
 {% include gallery caption="" %}
