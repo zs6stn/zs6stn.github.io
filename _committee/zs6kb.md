@@ -25,21 +25,26 @@ gallery:
 ---
 
 ### Licenced Since
--
+2012
 
 ### How you started
--
+The Voice of America (VOA) shortwave live broadcast of the first moon landing in 1969. This led me to amateur radio years later.
 
 ### Most Memorable Contact
--
+First SSB DX (Indonesia), First complete SSTV image from the ISS, First FM satellite contact and the furtherest QRP SSB contact (Joburg to a ZS2 station).
+
 
 ### Best part of the Hobby
--
+The broad aspects of the hobby and the constant learning.
 
 ### Favorite Modes
--
+Currently SSB on HF, also Digital Voice (Dstar and DMR)
 
 ### About Kevin 
--
+The radio bug bit when, as a schoolboy, dad and I listened to VOA live broadcast of the Apollo 11 moon landing. This led to me enjoying shortwave listening for a number decades. Initially I listened to broadcast stations and later discovered Utility stations - these are any radio transmissions that is not a scheduled broadcast station. They included Marine, Aircraft, Time Stations (used to check the current propagation before the internet was available), Number stations, Hams etc.
+
+My current set up consists of a Kenwood TS480SAT, Yaesu FT857D, a Xeigu X6100, a Dual Band VHF/UHF radio and Dstar and DMR HTs. I operate HF portable mostly due to HOA restrictions and the small property I own. I am a late starter to digital modes and am trying to learn CW.
+
+I give my time for Scouts JOTA (Jamboree on the Air) which is an international annual Scouting event and also facilitated the callsign ZS6BSG for the 1st Bryanston Scouts.
 
 {% include gallery caption="" %}

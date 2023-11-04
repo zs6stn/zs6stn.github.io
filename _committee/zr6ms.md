@@ -24,22 +24,22 @@ gallery:
 ---
 
 ### Licenced Since
--
+2010
 
 ### How you started
--
+Played around with CB radio as a kid, admired the radios that were displayed in the shop window of Hamrad in Durban. In 2010 decided to do my license.
 
 ### Most Memorable Contact
--
+Talking to a ham in the UK which was testing his antenna which he had just put together on a table in his small backyard . Signal reports both ways was 59 with 100w. He was surprised when I answered his cq call.
 
 ### Best part of the Hobby
--
+Having fun without having to leave your house.
 
 ### Favorite Modes
--
+Digital , FM , SSB
 
 ### About Marius 
--
+What you see is what you get.
 
 
 {% include gallery caption="" %}
