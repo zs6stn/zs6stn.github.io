@@ -26,19 +26,20 @@ gallery:
 ---
 
 ### Licenced Since
--
+2021
 
 ### How you started
--
+With lots of difficulty lol. Reading and YouTube.
+
 
 ### Most Memorable Contact
--
+Phillipines HF 40m On my precious 706mkII with inverted v antenna that I put together myself.
 
 ### Best part of the Hobby
--
+You can never get bored with it, there is so many facets to this hobby.
 
 ### Favorite Modes
--
+DMR
 
 ### About Samier 
 I’m Samier, an entrepreneur and property practitioner by day, and an enthusiast for all things gadgets, tech, and guns by night. 
