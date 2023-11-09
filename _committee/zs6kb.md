@@ -13,6 +13,21 @@ sidebar:
     image_alt: "ZS6KB"
 
 gallery:
+  - url: /assets/images/committee/zs6kb-1.jpg
+    image_path: assets/images/committee/zs6kb-1.jpg
+    alt: "ZS6KB"
+  - url: /assets/images/committee/zs6kb-2.jpg
+    image_path: assets/images/committee/zs6kb-2.jpg
+    alt: "ZS6KB"
+  - url: /assets/images/committee/zs6kb-3.jpg
+    image_path: assets/images/committee/zs6kb-3.jpg
+    alt: "ZS6KB"
+  - url: /assets/images/committee/zs6kb-4.jpg
+    image_path: assets/images/committee/zs6kb-4.jpg
+    alt: "ZS6KB"
+  - url: /assets/images/committee/zs6kb-5.jpg
+    image_path: assets/images/committee/zs6kb-5.jpg
+    alt: "ZS6KB"
   - url: /assets/images/committee/zs6kb.jpg
     image_path: assets/images/committee/zs6kb.jpg
     alt: "ZS6KB"
