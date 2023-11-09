@@ -8,7 +8,7 @@ sidebar:
   - title: "Position"
     text: "The Technical Guru"
   - title: " "
-    image: /assets/images/committee/zs6jgp.jpg
+    image: assets/images/committee/zs6jgp.jpg
     image_alt: "ZS6JGP"
 gallery:
   - url: /assets/images/committee/zs6jgp-1.jpg

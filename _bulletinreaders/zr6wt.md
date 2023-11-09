@@ -43,7 +43,23 @@ The electronics of it - so I enjoy building, even if it is a kit - but then one 
 JS8CALL
 
 ### About Stewart 
--
+I have a maths and physics background, but also majored in computer science, which just took over my life. 
+
+In those days it was the mainframe, for me the IBM 360/50. I got to know this beast inside out down to the extent of writing low level channel programs to control i/o devices. All in ASM of course.
+
+Fast forward to today, my interests and hobbies include the following:-
+ - Photography - use Canon equipment and "process" all my photos in Lightroom - enjoy scenic, wildlife (especially bird photography), astro, and street photography.
+
+ - Hiking - belong to the JHB hiking club and try to hike every Wednesday with them. However, I have also done a number of more serious hikes, eg Kilimanjaro, Rwenzori (Uganda), and Towerkop.
+
+ - Camping - enjoy our offroad camper to go anyway - just park off in the bush, throw up an EFHW antenna into a nearby tree and try some QRP with my G90.
+
+ - Raspberry Pi - what a great gadget. I have written many systems using R-Pi (building water usage monitoring, load control of resorts, etc), not to mention usage in home media centre and in radio - eg JS8CALL coupled to a QRP labs QDX radio.
+
+ - Amatuer radio - have become focused on QRP for SSB and digital modes especially JS8CALL., and WSPR (beacon and RX).
+QO-100 - more recently I have ventured into satellite - but just NB SSB so far. My earth station uses a Pluto SDR for RX/TX with a small 10 watt linear. See the photo of my dish with a home built TX antenna (POTY). My goal is to get onto WB which allows me to RX/TX DATV - but later.
+
+ - QRP Labs U4B - a balloon Tracker- this little guy is completely programmable with a built in GPS module. I have made one flight so far - BAKAR (Oct 2023) from Secunda Airfield. I configured it to TX WSPR packets on 20m. TX power is just 27mw - but managed to be picked up in Brazil! My goal is to launch a pico balloon which circumnavigates the earth.
 
 
 {% include gallery caption="" %}
