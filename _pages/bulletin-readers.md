@@ -17,4 +17,6 @@ This club bulletin is broadcast every Sunday at 08.45 local time (SAST) on the f
     - 7,115	MHz	lower sideband in the 40m band
     - Echo Link	ZS6STN-R (Node No:901594) 
 
-<h2>Meet our Bulletin Readers</h2>
+[Weekly Bulletin Reader's Schedule](/about/bulletins/schedule)
+
+## Meet our Bulletin Readers
