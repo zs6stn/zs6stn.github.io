@@ -28,8 +28,8 @@ gallery:
   - url: /assets/images/committee/zs6kb-5.jpg
     image_path: assets/images/committee/zs6kb-5.jpg
     alt: "ZS6KB"
-  - url: /assets/images/committee/zs6kb.jpg
-    image_path: assets/images/committee/zs6kb.jpg
+  - url: /assets/images/committee/zs6kb-6.jpg
+    image_path: assets/images/committee/zs6kb-6.jpg
     alt: "ZS6KB"
 
 ---

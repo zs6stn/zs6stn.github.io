@@ -8,8 +8,6 @@ sidebar:
   nav: "sarc"
 ---
 
-# Bulletin Reader's Schedule
-
 |November 2023||
 |-------|-------|
 |5th November 2023	|Chris ZS6GM|
