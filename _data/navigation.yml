@@ -16,6 +16,8 @@ main:
 repeaters:
   - title: "SARC Repeaters"
     children:
+      - title: "Our Repeaters"
+        url: /repeaters/
       - title: "VHF"
         url: /repeaters/vhf/
       - title: "UHF"
