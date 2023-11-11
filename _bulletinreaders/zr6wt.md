@@ -61,9 +61,10 @@ Fast forward to today, my interests and hobbies include the following:-
  - Raspberry Pi - what a great gadget. I have written many systems using R-Pi (building water usage monitoring, load control of resorts, etc), not to mention usage in home media centre and in radio - eg JS8CALL coupled to a QRP labs QDX radio.
 
  - Amatuer radio - have become focused on QRP for SSB and digital modes especially JS8CALL., and WSPR (beacon and RX).
-QO-100 - more recently I have ventured into satellite - but just NB SSB so far. My earth station uses a Pluto SDR for RX/TX with a small 10 watt linear. See the photo of my dish with a home built TX antenna (POTY). My goal is to get onto WB which allows me to RX/TX DATV - but later.
 
- - QRP Labs U4B - a balloon Tracker- this little guy is completely programmable with a built in GPS module. I have made one flight so far - BAKAR (Oct 2023) from Secunda Airfield. I configured it to TX WSPR packets on 20m. TX power is just 27mw - but managed to be picked up in Brazil! My goal is to launch a pico balloon which circumnavigates the earth.
+ - QO-100 - more recently I have ventured into satellite - but just NB SSB so far. My earth station uses a Pluto SDR for RX/TX with a small 10 watt linear. See the photo of my dish with a home built TX antenna (POTY). My goal is to get onto WB which allows me to RX/TX DATV - but later.
+
+ - QRP Labs U4B - a balloon Tracker- this little guy is completely programmable with a built in GPS module. I have made one flight so far - BACAR (Oct 2023) from Secunda Airfield. I configured it to TX WSPR packets on 20m. TX power is just 27mw - but managed to be picked up in Brazil! My goal is to launch a pico balloon which circumnavigates the earth.
 
 
 {% include gallery caption="" %}
