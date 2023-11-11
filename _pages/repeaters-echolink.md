@@ -8,7 +8,7 @@ sidebar:
 classes: wide
 ---
 
-Our EchoLink callsign is ZS6STN-R (Node No:901594).
+Our EchoLink callsign is ZS6STN-R (Node No:901594) and ZS6STN-L (Node No: 920558).
 
 |---|---|
 |__Controller__| <a href="https://wiki.friendlyelec.com/wiki/index.php/NanoPi_NEO" target="_blank">NanoPi Neo v1.4</a> |
