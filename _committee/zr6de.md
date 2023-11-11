@@ -15,6 +15,12 @@ gallery:
   - url: /assets/images/committee/zr6de-1.jpg
     image_path: /assets/images/committee/zr6de-1.jpg
     alt: "ZR6DE"
+  - url: /assets/images/committee/zr6de-2.jpg
+    image_path: /assets/images/committee/zr6de-2.jpg
+    alt: "ZR6DE"
+  - url: /assets/images/committee/zr6de-3.jpg
+    image_path: /assets/images/committee/zr6de-3.jpg
+    alt: "ZR6DE"
   - url: /assets/images/committee/zr6de.jpg
     image_path: /assets/images/committee/zr6de.jpg
     alt: "ZR6DE"
@@ -36,6 +42,14 @@ The variety - there really IS something for everyone.
 I enjoy experimenting - satellite, fox hunting, antennas etc
 
 ### About Richard 
--
+I love the outdoors, especially hiking and camping when I get the chance. 
+
+I'm more into berg than beach or bush.Since I was a child I've always been interested in design and technology, and anything unusual. 
+
+A few years ago I coached the Lego robotics team that won the national FLL League competition 3 years running. 
+
+I'm also a geocacher and was surprised how many hams are also geocachers. 
+
+So many things to do, and so little time...
 
 {% include gallery caption="" %}
