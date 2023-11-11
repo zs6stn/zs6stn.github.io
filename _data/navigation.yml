@@ -58,17 +58,30 @@ sarc:
       #   url: "/about/terms/"
   - title: "Useful Links"
     children:
-      - title: "South African Radio League"
+      - title: "South African Radio League (SARL)"
         url: "http://www.sarl.org.za/"
         target: "_blank"
-
+      - title: "SARL Repeaters & Beacons"
+        url: "http://www.sarl.org.za/public/local/Unmanned.asp"
+        target: "_blank"
       - title: "RF Line-of-Sight Tool"
         url: "https://www.scadacore.com/tools/rf-path/rf-line-of-sight/"
         target: "_blank"
       - title: "Radio Mobile Online"
         url: "https://www.ve2dbe.com/english1.html"
         target: "_blank"
+      - title: "ICASA Online"
+        url: "https://online.icasa.org.za/"
+        target: "_blank"
+      - title: "AMSAT SA"
+        url: "https://www.amsatsa.org.za/"
+        target: "_blank"
+      - title: "QRZ.COM"
+        url: "https://www.qrz.com/"
+        target: "_blank"
+        
 
+        
 posts:
   - title: "Posts by Tag"
     children:
