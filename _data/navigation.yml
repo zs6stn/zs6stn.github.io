@@ -64,6 +64,9 @@ sarc:
       - title: "SARL Repeaters & Beacons"
         url: "http://www.sarl.org.za/public/local/Unmanned.asp"
         target: "_blank"
+      - title: "SARL SA-QSL Service"
+        url: "http://www.sarl.org.za/SAQSL/Default.asp"
+        target: "_blank"
       - title: "RF Line-of-Sight Tool"
         url: "https://www.scadacore.com/tools/rf-path/rf-line-of-sight/"
         target: "_blank"
@@ -79,8 +82,6 @@ sarc:
       - title: "QRZ.COM"
         url: "https://www.qrz.com/"
         target: "_blank"
-        
-
         
 posts:
   - title: "Posts by Tag"
