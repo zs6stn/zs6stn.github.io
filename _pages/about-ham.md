@@ -5,6 +5,7 @@ permalink: /about/ham/
 taxonomy: markup
 sidebar: 
   nav: "sarc"
+classes: wide
 ---
 
 Amateur radio operation is fun. Amateur radio operators acquire good technical knowledge in executing their hobby and build new skills ranging from antenna building to building radios and linear amplifiers. Wireless amateur communication allows making contacts around the world on frequencies ranging from 1.8 MHz to several hundred for learning and entertainment purposes. But ham radio also has a serious side as it can provide communication during states of emergency. Ham radio works when all other services fail. 

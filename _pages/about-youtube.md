@@ -5,6 +5,7 @@ permalink: /about/youtube/
 taxonomy: markup
 sidebar:
   nav: "sarc"
+classes: wide
 ---
 
 We have recently launched a YouTube Channel.

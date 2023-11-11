@@ -5,7 +5,7 @@ permalink: /about/constitution
 taxonomy: tag
 sidebar:
   nav: "sarc"
-classes: spread
+classes: wide
 ---
 
 1.     Name

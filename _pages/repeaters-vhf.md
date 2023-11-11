@@ -5,6 +5,7 @@ permalink: /repeaters/vhf/
 taxonomy: markup
 sidebar:
   nav: "repeaters"
+classes: wide
 ---
 
 

@@ -5,6 +5,7 @@ permalink: /about/sarc/
 taxonomy: markup
 sidebar:
   nav: "sarc"
+classes: wide
 ---
 
 The Sandton Amateur Radio club services the greater northern suburbs of Johannesburg in furthering the interests of its members in all aspects of amateur radio and electronics as well as trains people interested in becoming a radio amateur.

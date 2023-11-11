@@ -6,6 +6,7 @@ classes: wide
 taxonomy: markup
 sidebar:
   nav: "sarc"
+classes: wide
 ---
 
 |November 2023||

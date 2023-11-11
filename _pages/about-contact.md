@@ -5,6 +5,7 @@ permalink: /about/contact/
 taxonomy: markup
 sidebar:
   nav: "sarc"
+classes: wide
 ---
 
 Get in touch and join our community.

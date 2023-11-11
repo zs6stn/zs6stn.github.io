@@ -3,6 +3,7 @@ title: Radio Amateur Exam - RAE
 layout: splash
 permalink: /rae/
 taxonomy: markup
+classes: wide
 ---
 
 <h2 data-toc-skip>Radio Amateur Exam - RAE</h2>

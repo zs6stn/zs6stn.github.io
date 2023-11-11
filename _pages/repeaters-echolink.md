@@ -5,6 +5,7 @@ permalink: /repeaters/echolink/
 taxonomy: markup
 sidebar:
   nav: "repeaters"
+classes: wide
 ---
 
 Our EchoLink callsign is ZS6STN-R (Node No:901594).

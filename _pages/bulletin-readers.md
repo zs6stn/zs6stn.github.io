@@ -10,6 +10,7 @@ sidebar:
   nav: "sarc"
 redirect_from:
   - /bulletins/
+classes: wide
 ---
 This club bulletin is broadcast every Sunday at 08.45 local time (SAST) on the following frequencies:
 

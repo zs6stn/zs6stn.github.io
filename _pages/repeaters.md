@@ -7,6 +7,7 @@ sidebar:
   nav: "repeaters"
 #tags: [Club, Repeaters, VHF, UHF, DMR, D-Star]
 toc: true
+classes: wide
 ---
 
 The Sandton Amateur Radio Club hosts the following Repeaters:

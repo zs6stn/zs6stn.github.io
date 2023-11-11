@@ -7,6 +7,6 @@ entries_layout: grid
 classes: wide
 redirect_to:
   - /about/bulletins/
-
+classes: wide
 ---
  

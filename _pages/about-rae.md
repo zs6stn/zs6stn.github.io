@@ -5,6 +5,7 @@ permalink: /about/rae/
 taxonomy: markup
 sidebar:
   nav: "sarc"
+classes: wide
 ---
 
 If you already know what Amateur Radio is and you want to do your licence, you have come to the right place.

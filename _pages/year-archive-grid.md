@@ -6,4 +6,5 @@ entries_layout: grid
 author_profile: false
 sidebar:
   nav: "posts"
+classes: wide
 ---

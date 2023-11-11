@@ -5,6 +5,7 @@ permalink: /about/wazs/
 taxonomy: markup
 sidebar:
   nav: "sarc"
+classes: wide
 ---
 
 The Worked All ZS series of awards is available to all radio amateurs and short wave listeners.

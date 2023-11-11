@@ -5,6 +5,7 @@ permalink: /repeaters/dmr/
 taxonomy: markup
 sidebar:
   nav: "repeaters"
+classes: wide
 ---
 
 |---|---|

@@ -5,6 +5,7 @@ permalink: /about/join/
 taxonomy: markup
 sidebar:
   nav: "sarc"
+classes: wide
 ---
 
 Thank you for your interest in joining the Sandton Amateur Radio Club.

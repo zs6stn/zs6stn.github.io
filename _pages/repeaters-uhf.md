@@ -5,6 +5,7 @@ permalink: /repeaters/uhf/
 taxonomy: markup
 sidebar:
   nav: "repeaters"
+classes: wide
 ---
 
 |---|---|

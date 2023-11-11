@@ -5,6 +5,7 @@ permalink: /repeaters/dstar/
 taxonomy: markup
 sidebar:
   nav: "repeaters"
+classes: wide
 ---
 
 |---|---|
