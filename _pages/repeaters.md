@@ -32,5 +32,7 @@ Our main Highsite is hosted at the Bryanston water tower.
 
 ![Bryanston  Highsite](/assets/images/repeaters/highsite-maintenance.jpg)
 
+![Bryanston  Highsite](/assets/images/repeaters/highsite-cabinet.jpg)
+
 
 Our secondary Highsite is hosted at the <a href="https://www.saiee.org.za/" target="_blank">SAIEE</a>.
