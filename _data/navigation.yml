@@ -53,6 +53,16 @@ sarc:
         url: "/about/contact/"
       - title: "Terms and Privacy Policy"
         url: "/about/terms/"
+  - title: "Useful Links"
+    children:
+      - title: "South African Radio League"
+        url: "http://www.sarl.org.za/"
+        target: "_blank"
+
+      - title: "Worked All ZS Award - WAZS"
+        url: "/about/wazs"
+
+
 posts:
   - title: "Posts by Tag"
     children:

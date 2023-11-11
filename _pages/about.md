@@ -5,6 +5,8 @@ permalink: /about/
 taxonomy: markup
 sidebar:
   nav: "sarc"
+sidebar:
+  nav: "links"
 redirect_to:
   - /about/sarc/
 ---

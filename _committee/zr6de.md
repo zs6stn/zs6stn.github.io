@@ -18,12 +18,6 @@ gallery:
   - url: /assets/images/committee/zr6de.jpg
     image_path: /assets/images/committee/zr6de.jpg
     alt: "ZR6DE"
-  # - url: /assets/images/unsplash-gallery-image-2.jpg
-  #   image_path: assets/images/unsplash-gallery-image-2-th.jpg
-  #   alt: "placeholder image 2"
-  # - url: /assets/images/unsplash-gallery-image-3.jpg
-  #   image_path: assets/images/unsplash-gallery-image-3-th.jpg
-  #   alt: "placeholder image 3"
 ---
 
 ### Licenced Since
@@ -43,6 +37,5 @@ I enjoy experimenting - satellite, fox hunting, antennas etc
 
 ### About Richard 
 -
-
 
 {% include gallery caption="" %}
