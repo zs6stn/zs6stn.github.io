@@ -1,7 +1,5 @@
 # main links links
 main:
-  # - title: "Sandton Amateur Radio Club"
-  #   url: /
   - title: "About"
     url: /about/
     description: Information about SARC
@@ -41,7 +39,6 @@ sarc:
         url: "/about/ham/"
       - title: "Radio Amateur Examination (RAE)"
         url: "/about/rae/"
-
       - title: "Worked All ZS Award (WAZS)"
         url: "/about/wazs"
       - title: SARC YouTube Channel

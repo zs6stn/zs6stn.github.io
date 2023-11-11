@@ -5,7 +5,7 @@ permalink: /about/constitution
 taxonomy: tag
 sidebar:
   nav: "sarc"
-classes: wide
+classes: spread
 ---
 
 1.     Name
@@ -86,7 +86,7 @@ The Club's affairs shall be administered by a Committee elected at the Annual Ge
 
 6.4.3. Preparing the accounts of the Club and presenting them at the Annual General Meeting.
 
-6.5. Ordinary Committee Members
+6.5. Ordinary Committee Members.
 
 6.6. There shall be no fewer than three Ordinary Committee members.
 
