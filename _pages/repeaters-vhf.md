@@ -7,10 +7,7 @@ sidebar:
   nav: "repeaters"
 ---
 
-VHF Repeater Information
----
 
-| VHF Repeater |   |
 |---|---|
 |__Brand__| <a href="https://www.kenwood.com/india/com/lmr/tkr-750_850/spec.html" target="_blank">Kenwood TKR-750</a> |
 | __Callsign__ | ZU9NRB |

@@ -7,11 +7,6 @@ sidebar:
   nav: "repeaters"
 ---
 
-
-UHF  Repeater Information
----
-
-| UHF Repeater |   |
 |---|---|
 |__Brand__| <a href="https://www.kenwood.com/india/com/lmr/tkr-750_850/spec.html" target="_blank">Kenwood TKR-850</a> |
 | __Callsign__ | ZU9NRC |

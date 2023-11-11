@@ -7,10 +7,6 @@ sidebar:
   nav: "repeaters"
 ---
 
-DMR  Repeater Information
----
-
-| DMR Repeater |   |
 |---|---|
 |__Brand__| <a href="https://hytera-europe.com/media/RD985_EN_003E_260620.pdf" target="_blank">Hytera RD985S</a> |
 | __Callsign__ | ZU9D |

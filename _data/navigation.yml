@@ -16,7 +16,7 @@ main:
   #   description: "Search SARC"
 
 repeaters:
-  - title: "Repeaters"
+  - title: "SARC Repeaters"
     children:
       - title: "VHF"
         url: /repeaters/vhf/
@@ -28,12 +28,12 @@ repeaters:
         url: /repeaters/dstar/
       - title: "EchoLink"
         url: /repeaters/echolink/
-      - title: "System Status"
+      - title: "SARC System Statuses"
         url: "https://stats.uptimerobot.com/m70wYF5moL"
         target: "_blank"
 
 sarc:
-  - title: "About"
+  - title: "About SARC"
     children:
       - title: "Sandton Amateur Radio Club"
         url: "/about/sarc/"
@@ -41,6 +41,7 @@ sarc:
         url: "/about/ham/"
       - title: "Radio Amateur Examination (RAE)"
         url: "/about/rae/"
+
       - title: "Worked All ZS Award (WAZS)"
         url: "/about/wazs"
       - title: SARC YouTube Channel
@@ -49,7 +50,8 @@ sarc:
         url: "/about/bulletins/"
       - title: "Committee Members"
         url: "/about/committee/"
-
+      - title: "Club Constitution"
+        url: "/about/constitution"
       - title: "Join the Club"  
         url: "/about/join/"
       - title: "Contact Details"
@@ -82,6 +84,9 @@ sarc:
       - title: "QRZ.COM"
         url: "https://www.qrz.com/"
         target: "_blank"
+      - title: "eHam.net"
+        url: "https://www.eham.net/site/index"
+        target: "_blank"     
         
 posts:
   - title: "Posts by Tag"

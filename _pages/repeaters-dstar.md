@@ -7,10 +7,6 @@ sidebar:
   nav: "repeaters"
 ---
 
-D-Star  Repeater Information
----
-
-| D-Star Repeater |   |
 |---|---|
 |__Brand__| Icom |
 | __Callsign__ | ZU9A |
