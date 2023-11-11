@@ -41,27 +41,33 @@ sarc:
         url: "/about/ham/"
       - title: "Radio Amateur Examination (RAE)"
         url: "/about/rae/"
-      - title: YouTube Channel
+      - title: "Worked All ZS Award (WAZS)"
+        url: "/about/wazs"
+      - title: SARC YouTube Channel
         url: "/about/youtube/"
       - title: "Weekly Bulletins"
         url: "/about/bulletins/"
       - title: "Committee Members"
         url: "/about/committee/"
+
       - title: "Join the Club"  
         url: "/about/join/"
       - title: "Contact Details"
         url: "/about/contact/"
-      - title: "Terms and Privacy Policy"
-        url: "/about/terms/"
+      # - title: "Terms and Privacy Policy"
+      #   url: "/about/terms/"
   - title: "Useful Links"
     children:
       - title: "South African Radio League"
         url: "http://www.sarl.org.za/"
         target: "_blank"
 
-      - title: "Worked All ZS Award - WAZS"
-        url: "/about/wazs"
-
+      - title: "RF Line-of-Sight Tool"
+        url: "https://www.scadacore.com/tools/rf-path/rf-line-of-sight/"
+        target: "_blank"
+      - title: "Radio Mobile Online"
+        url: "https://www.ve2dbe.com/english1.html"
+        target: "_blank"
 
 posts:
   - title: "Posts by Tag"
