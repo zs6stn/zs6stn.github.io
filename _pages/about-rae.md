@@ -1,5 +1,5 @@
 ---
-title: RAE - Radio Amateur Exam
+title: Sandton Radio Amateur Club's Radio Amateur Exam (RAE)
 layout: tag
 permalink: /about/rae/
 taxonomy: markup
@@ -10,7 +10,7 @@ classes: wide
 
 If you already know what Amateur Radio is and you want to do your licence, you have come to the right place.
 
-<h2 data-toc-skip>Sandton Radio Amateur Club's RAE :: Class-A General Information</h2>
+## Class-A General Information
 
 The recommended RAE course duration is approximately 12 weeks, but this could vary from club to club.
 Times and days will also vary, so it is important to find out all the details and to get a schedule from the clubs RAE manager.
