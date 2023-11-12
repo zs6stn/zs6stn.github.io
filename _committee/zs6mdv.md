@@ -1,12 +1,12 @@
 ---
 title: "Matthew ZS6MDV"
 permalink: /about/committee/zs6mdv/
-excerpt: "Club Secretary"
+excerpt: "Club Secretary, Bulletin Reader"
 header:
   teaser: assets/images/committee/zs6mdv.jpg
 sidebar:
   - title: "Position"
-    text: "Club Secretary"
+    text: "Club Secretary, Bulletin Reader"
   - title: " "
     image: assets/images/committee/zs6mdv.jpg
     image_alt: "ZS6MDV"
