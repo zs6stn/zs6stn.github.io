@@ -8,7 +8,7 @@ toc: false
 
 Chris Turner, ZS6GM December 2023
 
-When I listen across the ham bands, there seems to be an on-going obsession with achieving ‘low SWR’ on the feedline in the belief that low SWR is an indication of optimum radiation from the antenna. I'm reminded of Walter Maxwell W2DU1 who said “we are in this state of mind because so much misleading information has been, and is still being published concerning the behaviour of antennas' performance in the presence of reflections when mismatched to the antenna and the meaning and interpretation of the SWR data”.  
+When I listen across the ham bands, there seems to be an on-going obsession with achieving ‘low SWR’ on the feedline in the belief that low SWR is an indication of optimum radiation from the antenna. I'm reminded of Walter Maxwell W2DU1 who said *“we are in this state of mind because so much misleading information has been, and is still being published concerning the behaviour of antennas' performance in the presence of reflections when mismatched to the antenna and the meaning and interpretation of the SWR data”*.  
 
 We've been conditioned to believe that  'one – to – one' SWR is the ultimate goal. This is a myth that has been propagated ‘as fact’ in so many articles and papers even though the correct teachings are contained in reference books such as the ARRL Antenna Book and the reference book Antennas by John D Krause.
 
