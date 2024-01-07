@@ -1,6 +1,6 @@
 ---
 title: Why SWR meters can be bad for your station by Chris Turner ZS6GM
-author: zs6gm
+author: chris
 date: 2023-12-31
 tags: [Tech Talks, SWR]
 toc: false
