@@ -1,5 +1,4 @@
 ---
-# the default layout is 'page'
 title: SARC Repeaters
 layout: tag
 author: justin
