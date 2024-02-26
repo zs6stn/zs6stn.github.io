@@ -16,54 +16,79 @@ classes: wide
 |18th February 2024|	Noel ZR6DX|
 |25th February 2024|	Keith ZS6HI|
  
-
 |March||
 |-------|-------|
-|45354|Mike ZS6XYZ|
-|45361|Angus ZS6GOO|
-|45368|Stewart ZR6WT|
-|45375|Matthew ZS6MDV|
-|45382|Noel ZR6DX|
+|03 March 2024	|Mike ZS6XYZ|
+|10 March 2024	|Angus ZS6GOO|
+|17 March 2024	|Stewart ZR6WT|
+|24 March 2024	|Matthew ZS6MDV|
+|31 March 2024	|Noel ZR6DX|
 
 |April||
 |-------|-------|
-|45389|Chris ZS6GM|
-|45396|Keith ZS6HI|
-|45403|Mike ZS6XYZ|
-|45410|Angus ZS6GOO|
+|07 April 2024	|Chris ZS6GM|
+|14 April 2024	|Keith ZS6HI|
+|21 April 2024	|Mike ZS6XYZ|
+|28 April 2024	|Angus ZS6GOO|
 
 |May||
 |-------|-------|
-|45417|Stewart ZR6WT|
-|45424|Matthew ZS6MDV|
-|45431|Noel ZR6DX|
-|45438|Chris ZS6GM|
+|05 May 2024	|Stewart ZR6WT|
+|12 May 2024	|Matthew ZS6MDV|
+|19 May 2024	|Noel ZR6DX|
+|26 May 2024	|Chris ZS6GM|
 
 |June||
 |-------|-------|
-|45445|Keith ZS6HI|
-|45452|Mike ZS6XYZ|
-|45459|Angus ZS6GOO|
-|45466|Stewart ZR6WT|
-|45473|Matthew ZS6MDV|
+|02 June 2024	|Keith ZS6HI|
+|09 June 2024	|Mike ZS6XYZ|
+|16 June 2024	|Angus ZS6GOO|
+|23 June 2024	|Stewart ZR6WT|
+|30 June 2024	|Matthew ZS6MDV|
 
 |July||
 |-------|-------|
-|45480|Noel ZR6DX|
-|45487|Chris ZS6GM|
-|45494|Keith ZS6HI|
-|45501|Mike ZS6XYZ|
+|07 July 2024	|Noel ZR6DX|
+|14 July 2024	|Chris ZS6GM|
+|21 July 2024	|Keith ZS6HI|
+|28 July 2024	|Mike ZS6XYZ|
 
-|August||
+|August||	
 |-------|-------|
-|45508|Chris ZS6GM|
-|45515|Keith ZS6HI|
-|45522|Mike ZS6XYZ|
-|45529|Angus ZS6GOO|
+|04 August 2024	|Chris ZS6GM|
+|11 August 2024	|Keith ZS6HI|
+|18 August 2024	|Mike ZS6XYZ|
+|25 August 2024	|Angus ZS6GOO|
 
-
-
-
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
 
 
 
