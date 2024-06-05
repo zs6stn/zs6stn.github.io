@@ -11,8 +11,8 @@ classes: wide
 ---
 
 The Sandton Amateur Radio Club hosts the following Repeaters:
-- VHF - 2M Analog [145.700 MHz]   (Echolink: ZS6STN-R / Node: 901594) 
-- UHF - 70cm Analog [438.800 MHz]  (Echolink: ZS6STN-L / Node: 920558)
+- VHF - 2M Analog [145.700 MHz] (88.5 Hz)  (Echolink: ZS6STN-R / Node: 901594) 
+- UHF - 70cm Analog [438.800 MHz] (88.5 Hz) (Echolink: ZS6STN-L / Node: 920558)
 - Digital - 70cm DMR [438.35000 MHZ] (Color Code 1)
 - Digital - 2M D-Star [145.5875 MHz]
 
