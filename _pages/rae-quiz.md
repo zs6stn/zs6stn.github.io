@@ -1,5 +1,5 @@
 ---
-title: Radio Amateur Exam - RAE
+title: Radio Amateur Exam - RAE Quiz
 layout: splash
 permalink: /rae/quiz
 taxonomy: markup
