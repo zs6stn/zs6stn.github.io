@@ -10,3 +10,6 @@ classes: wide
 
 <iframe src="https://zs6gvh.com/rae-quiz.html" class="is-fullwidth" height="840px" width="100%">
 </iframe>
+
+This Quiz is provided to you from Gerrit ZS6GVH
+
