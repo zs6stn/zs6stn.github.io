@@ -8,6 +8,7 @@ classes: wide
 
 <h2 data-toc-skip>Radio Amateur Exam - RAE</h2>
 
+[Take the RAE Quiz](/rae-quiz)
 
 Sandton Radio Amateur Club's RAE :: Class-A General Information
 
