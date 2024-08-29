@@ -8,8 +8,6 @@ classes: wide
 
 <h2 data-toc-skip>Radio Amateur Exam - RAE</h2>
 
-[Take the RAE Quiz](https://www.zs6stn.org.za/rae/quiz)
-
 Sandton Radio Amateur Club's RAE :: Class-A General Information
 
 The recommended RAE course duration is approximately 12 weeks, but this could vary from club to club.
