@@ -24,13 +24,13 @@ You need to make a minimum of five contacts and do a practical assessment on set
 There should be regular opportunities, during the course, for you to operate an HF station and make contact with other hams using a club call sign.
 This will be done under supervision of a suitable qualified Amateur Radio operator.
 The final HF assessment will be undertaken by an HF assessor as appointed by the SARL.
-If you are not attending lectures and doing home study, then have a look at the following link and contact one of the listed HF assessors in your area: [http://www.sarl.org.za/Web3/RAE/HFAssessorsPublic.aspx](http://www.sarl.org.za/Web3/RAE/HFAssessorsPublic.aspx){:target="_blank"}
+<!-- If you are not attending lectures and doing home study, then have a look at the following link and contact one of the listed HF assessors in your area: [http://www.sarl.org.za/Web3/RAE/HFAssessorsPublic.aspx](http://www.sarl.org.za/Web3/RAE/HFAssessorsPublic.aspx){:target="_blank"} -->
 
 The final assessment, including the logbook and declaration by the assessors, needs to be handed in at the latest with the final exam papers.
 
 <h2 data-toc-skip>Study Material</h2>
 
-The study material is available to download from the SARL website at the following address: [http://www.sarl.org.za/public/licences/rae.asp](http://www.sarl.org.za/public/licences/rae.asp){:target="_blank"}
+The study material is available to download from the SARL website at the following address: [https://mysarl.org.za/rae-training-documentation/](https://mysarl.org.za/rae-training-documentation/){:target="_blank"}
 
 Weekly classes cover the following topics, which are in the study guide.
 
@@ -47,8 +47,8 @@ Weekly classes cover the following topics, which are in the study guide.
 11. Digital Communication Modes, Safety Considerations
 12. Review and mock exam
 
-The amateur radio examinations are generally held twice a year, towards the end of May and October of each year. It is recommended that you register as soon as possible and upload all the required documents as per the “RAE Registration information sheet V6.1” This document and the RAE Registration page can be found at the following link:
-[http://www.sarl.org.za/Web3/RAE/RAERegistration.aspx](http://www.sarl.org.za/Web3/RAE/RAERegistration.aspx){:target="_blank"}
+The amateur radio examinations are generally held twice a year, towards the end of May and October of each year. It is recommended that you register as soon as possible and upload all the required documents. More information can be found on the SARL website at the following address:
+[https://mysarl.org.za/rae-radio-amateur-examination/](https://mysarl.org.za/rae-radio-amateur-examination/){:target="_blank"}
 
 | Contact Details|  |
 | ----------- | ----------- |
