@@ -9,44 +9,6 @@ sidebar:
 classes: wide
 ---
 
-
-|August 2024||	
-|-------|-------|
-|04 August 2024	|Chris ZS6GM|
-|11 August 2024	|Keith ZS6HI|
-|18 August 2024	|Mike ZS6XYZ|
-|25 August 2024	|Angus ZS6GOO|
-
-|September 2024||
-|-------|-------|
-|1 September 2024|Stewart ZR6WT|
-|8 September 2024|Noel ZR6DX|
-|15 September 2024|Chris ZS6GM|
-|22 September 2024|Keith ZS6HI|
-|29 September 2024|Mike ZS6XYZ|
-
-|October 2024||
-|-------|-------|
-|6 October 2024|Angus ZS6GOO|
-|13 October 2024|Mark ZS6MDX|
-|20 October 2024|Brandon ZS6LZ|
-|27 October 2024|Stewart ZR6WT|
-
-|November 2024||
-|-------|-------|
-|3 November 2024|Noel ZR6DX|
-|10 November 2024|Chris ZS6GM|
-|17 November 2024|Keith ZS6HI|
-|24 November 2024|Mike ZS6XYZ|
-
-|December 2024||
-|-------|-------|
-|1 December  2024|Angus ZS6GOO|
-|8 December  2024|Mark ZS6MDX|
-|15 December  2024|Brandon ZS6LZ|
-|22 December  2024|Stewart ZR6WT|
-|29 December  2024|Noel ZR6DX|
-
 |January 2025||
 |-------|-------|
 |5 January 2025|Chris ZS6GM|
@@ -85,17 +47,52 @@ classes: wide
 
 |June 2025||
 |-------|-------|
-|1 June 2025|Brandon ZS6LZ|
-|8 June 2025|Stewart ZR6WT|
-|15 June 2025|Noel ZR6DX|
-|22 June 2025|Chris ZS6GM|
-|29 June 2025|Keith ZS6HI|
+|1 June 2025|Stewart ZR1WT|
+|8 June 2025|Noel ZR6DX|
+|15 June 2025|Chris ZS6GM|
+|22 June 2025|Keith ZS6HI|
+|29 June 2025|Richard ZR6DE|
 
 |July 2025||
 |-------|-------|
-|6 July 2025|Mike ZS6XYZ|
-|13 July 2025|Angus ZS6GOO|
-|20 July 2025|Mark ZS6MDX|
-|27 July 2025|Brandon ZS6LZ|
+|6 July 2025|Angus ZS6GOO|
+|13 July 2025|Mark ZS6MDX|
+|20 July 2025|Stewart ZR1WT|
+|27 July 2025|Noel ZR6DX|
 
+|August 2025||
+|-------|-------|
+|3 August 2025|Chris ZS6GM|
+|10 August 2025|Keith ZS6HI|
+|17 August 2025|Richard ZR6DE|
+|24 August 2025|Angus ZS6GOO|
+|31 August 2025|Mark ZS6MDX|
 
+|September 2025||
+|-------|-------|
+|7 September 2025|Stewart ZR1WT|
+|14 September 2025|Noel ZR6DX|
+|21 September 2025|Chris ZS6GM|
+|28 September 2025|Keith ZS6HI|
+
+|October 2025||
+|-------|-------|
+|5 October 2025|Richard ZR6DE|
+|12 October 2025|Angus ZS6GOO|
+|19 October 2025|Mark ZS6MDX|
+|26 October 2025|Stewart ZR1WT|
+
+|November 2025||
+|-------|-------|
+|2 November 2025|Noel ZR6DX|
+|9 November 2025|Chris ZS6GM|
+|16 November 2025|Keith ZS6HI|
+|23 November 2025|Richard ZR6DE|
+|30 November 2025|Angus ZS6GOO|
+
+|December 2025||
+|-------|-------|
+|7 December 2025|Mark ZS6MDX|
+|14 December 2025|Stewart ZR1WT|
+|21 December 2025|Noel ZR6DX|
+|28 December 2025|Chris ZS6GM|
