@@ -7,7 +7,7 @@ main:
     url: /repeaters/
     description: Our Repeaters
   - title: "Posts"
-    url: /posts/tags/
+    url: /posts/
     description: TechTalks and Blog Posts
   # - title: "Search"
   #   url: /search/
