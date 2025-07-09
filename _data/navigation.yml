@@ -6,8 +6,11 @@ main:
   - title: "Repeaters"
     url: /repeaters/
     description: Our Repeaters
+  - title: "Videos"
+    url: /videos/
+    description: YouTube Channel Videos
   - title: "Posts"
-    url: /posts/tags/
+    url: /posts/
     description: TechTalks and Blog Posts
   # - title: "Search"
   #   url: /search/
