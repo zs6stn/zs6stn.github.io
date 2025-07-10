@@ -1,16 +1,16 @@
 ---
-title: "Mike ZS6XYZ"
+title: "Mark ZS6MDX"
 permalink: /about/bulletins/zs6xyz/
 excerpt: "Bulletin Reader"
 header:
-#  image: /assets/images/bulletin-readers/zs6xyz.jpg
-  teaser: assets/images/bulletin-readers/zs6xyz.jpg
+#  image: /assets/images/bulletin-readers/zs6mdx.jpg
+  teaser: assets/images/bulletin-readers/zs6mdx.jpg
 sidebar:
   - title: "Position"
     text: "Bulletin Reader"
   - title: " "
-    image: assets/images/bulletin-readers/zs6xyz.jpg
-    image_alt: "ZS6XYZ"
+    image: assets/images/bulletin-readers/zs6mdx.jpg
+    image_alt: "ZS6MDX"
 
 gallery:
   # - url: /assets/images/unsplash-gallery-image-2.jpg
@@ -19,9 +19,9 @@ gallery:
   # - url: /assets/images/unsplash-gallery-image-3.jpg
   #   image_path: assets/images/unsplash-gallery-image-3-th.jpg
   #   alt: "placeholder image 3"
-  - url: /assets/images/bulletin-readers/zs6xyz.jpg
-    image_path: assets/images/bulletin-readers/zs6xyz.jpg
-    alt: "ZS6XYZ"
+  - url: /assets/images/bulletin-readers/zs6mdx.jpg
+    image_path: assets/images/bulletin-readers/zs6mdx.jpg
+    alt: "ZS6MDX"
 ---
 
 ### Licenced Since
