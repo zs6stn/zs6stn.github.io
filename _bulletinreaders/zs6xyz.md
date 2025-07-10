@@ -4,12 +4,12 @@ permalink: /about/bulletins/zs6xyz/
 excerpt: "Bulletin Reader"
 header:
 #  image: /assets/images/bulletin-readers/zs6xyz.jpg
-  teaser: assets/images/bulletin-readers/zs6xyz.png
+  teaser: assets/images/bulletin-readers/zs6xyz.jpg
 sidebar:
   - title: "Position"
     text: "Bulletin Reader"
   - title: " "
-    image: assets/images/bulletin-readers/zs6xyz.png
+    image: assets/images/bulletin-readers/zs6xyz.jpg
     image_alt: "ZS6XYZ"
 
 gallery:
@@ -19,8 +19,8 @@ gallery:
   # - url: /assets/images/unsplash-gallery-image-3.jpg
   #   image_path: assets/images/unsplash-gallery-image-3-th.jpg
   #   alt: "placeholder image 3"
-  - url: /assets/images/bulletin-readers/zs6xyz.png
-    image_path: assets/images/bulletin-readers/zs6xyz.png
+  - url: /assets/images/bulletin-readers/zs6xyz.jpg
+    image_path: assets/images/bulletin-readers/zs6xyz.jpg
     alt: "ZS6XYZ"
 ---
 
