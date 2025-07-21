@@ -44,6 +44,9 @@ At 08:00 UTC, things opened up. Operators had the option to jump to **20m or 10m
 
 This was more than just a contest—it was a showcase of what happens when a **dedicated club community mobilises with purpose**. From the coordination to the field setups, and the operating to the logging, this event highlighted the best of our club spirit.
 
+![Two operators enjoying the contest together](/assets/images/qrp-contest-operators.jpg)  
+*Mark ZS6AIN (left) Mark ZS6MDX (right) - Club members enjoying the camaraderie and shared experience of QRP field operations*
+
 ![Close-up of QRP radio displaying frequency](/assets/images/qrp-contest-radio.jpg)  
 *Brandon ZS6LZ - The heart of QRP operation - low power radios delivering maximum performance*
 
