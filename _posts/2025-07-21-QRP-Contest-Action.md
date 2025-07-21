@@ -31,6 +31,9 @@ The contest format was split into two distinct one-hour segments:
 ### First Hour: 40m Band
 From 07:00 to 08:00 UTC, **everyone was on 40 meters**, and local propagation didn't disappoint. Contacts flew back and forth between club members scattered across Gauteng. Signals were strong, and the exchange of grid squares and QRP power levels was efficient and fun.
 
+![Operator at work in natural bush setting](/assets/images/qrp-contest-operator1.jpg)  
+*Keith ZS6Hi operating from a scenic location, showcasing the outdoor appeal of QRP contesting*
+
 ### Second Hour: 20m, 40m, or 10m – Your Choice
 At 08:00 UTC, things opened up. Operators had the option to jump to **20m or 10m** to hunt for those all-important **long-distance (DX) contacts**, or remain on 40m to dig deeper into local QSOs. Some club members reported good skip conditions and even snagged a few DX points to boost their logs.
 
