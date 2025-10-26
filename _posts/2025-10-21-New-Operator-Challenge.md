@@ -1,7 +1,7 @@
 ---
 title: "Newly Licensed? Take On the ZS6STN Operator Challenge"
 author: gerrit
-date: 2025-10-24
+date: 2025-10-26
 tags: [Challenges, Operating]
 toc: false
 ---
