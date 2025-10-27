@@ -1,7 +1,7 @@
 ---
 title: "Antenna Build Day: Linked Dipoles"
 author: mark
-date: 2025-10-27
+date: 2025-10-25
 tags: [Club, Antenna, Build Day, Dipole]
 toc: false
 ---
