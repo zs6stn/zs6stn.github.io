@@ -67,6 +67,12 @@ Pick a South African Radio League contest and submit a log. Even a few contacts 
 ### Challenge: Join a Club Event or Net
 Attend a club meeting, browse a flea market table, help with a field day, or read a news bulletin on-air. Club participation keeps skills sharp and forges the friendships that make amateur radio unforgettable.
 
+### Challenge: Earn the Worked All Grid Squares (WAGS) Award
+South Africa sits inside 83 grid squares; work at least one station in each square to claim the WAGS certificate and prove you can chase signals across the entire country. Certificates are issued by the Sandton Amateur Radio Club—reach the administrator at `info@zs6stn.org.za` or `zr6ms@vodamail.co.za` for forms and confirmations.
+
+### Challenge: Earn the Worked All ZS (WAZS) Award
+Log confirmed QSOs with 100 unique South African callsigns while meeting the per-call-area minimums—ZS1 16, ZS2 8, ZS3 1, ZS4 6, ZS5 13, ZS6 56—and you qualify for the Worked All ZS certificate series. Submit the certified application package (SA-QSL, LoTW, or club-certified QSLs) to the Awards Manager to unlock WAZS-100 and every 100-call increment thereafter.
+
 ## Make It Yours
 
 Use a checklist, spreadsheet, or logging software to track progress and capture lessons learned. Bring your questions to the next club meeting. There is always someone ready to help with equipment choices, antenna builds, and propagation puzzles. Above all, keep experimenting, keep logging, and keep having fun. The airwaves are now yours to explore. 73!
