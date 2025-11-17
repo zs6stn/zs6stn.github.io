@@ -23,7 +23,7 @@ Our weekly Sunday bulletin features club news, upcoming events, and technical di
 
 <div class="video-grid">
   <div class="video-item">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/VbmDSp2OMiQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/aTIqsYFjRvg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </div>
 </div>
 
