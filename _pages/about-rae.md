@@ -50,11 +50,6 @@ Weekly classes cover the following topics, which are in the study guide.
 The amateur radio examinations are generally held twice a year, towards the end of May and October of each year. It is recommended that you register as soon as possible and upload all the required documents. More information can be found on the SARL website at the following address:
 [https://mysarl.org.za/rae-radio-amateur-examination/](https://mysarl.org.za/rae-radio-amateur-examination/){:target="_blank"}
 
-## October 2025 RAE Class Schedule
-
-The following is the ZS6STN RAE Class Timetable for the October 2025 examination:
-
-![ZS6STN RAE Class Timetable October 2025](/assets/images/rae-october2025.png)
 
 | Contact Details|  |
 | ----------- | ----------- |
