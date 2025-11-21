@@ -10,11 +10,38 @@ classes: wide
 
 If you already know what Amateur Radio is and you want to do your licence, you have come to the right place.
 
-## Class-A General Information
+## RAE October 2025 Results and 2026 Course Intake
 
-The recommended RAE course duration is approximately 12 weeks, but this could vary from club to club.
-Times and days will also vary, so it is important to find out all the details and to get a schedule from the clubs RAE manager.
-Note, clubs may arrange extra lessons or give revision classes from time to time. It is the individual candidate’s responsibility to attend every class and to catch up work, if classes are missed. Clubs will generally run a mock exam towards the end of the course and it is highly recommended that you attend these sessions.
+I'm pleased to announce that we successfully completed the October 2025 amateur radio license exams, with 11 new operators earning their licenses and callsigns!
+
+### Interested in earning your amateur radio license in 2026?
+
+Our next online course cycle begins late January 2026, preparing you for the May 2026 exam session.
+
+**The World of Amateur Radio HAM**
+Learn how to operate, build and understand Radios. There's a bit of something for everyone.
+Get your callsign when you pass.
+
+**Course Details:**
+*   **Start Date:** End of January 2026
+*   **Duration:** 14 weeks
+*   **Platform:** Online - Teams
+*   **Schedule:** Tuesday and Thursdays evenings 7pm - 9pm
+*   **Practical:** A few weekend days in the field where you need to learn how to connect a Radio and make contacts
+*   **Exam:** May 2026 - On site
+*   **Cost:** Tuition Fee - R 1 200 (Includes exam fees)
+
+**Registration:**
+[Click here to register for the 2026 Course](https://docs.google.com/forms/d/e/1FAIpQLSclmT8M5rErV_qzV1gv-hK33rBW2wTJ8Kvr2h8qe5w4Md1Phw/viewform?usp=dialog)
+
+Feel free to reach out directly if you have any questions about the course.
+
+Looking forward to welcoming our next cohort of amateur radio enthusiasts!
+
+---
+
+### Additional Resources
+
 We also suggest that you go and register at the following ham exam study site: [www.weprepare.co.za](https://www.weprepare.co.za/page-204-about-learning-and-development-module.html){:target="_blank"}
 Do these exercises on a regular basis as they will stand you in good stead for the final exam.
 
@@ -47,8 +74,10 @@ Weekly classes cover the following topics, which are in the study guide.
 11. Digital Communication Modes, Safety Considerations
 12. Review and mock exam
 
-The amateur radio examinations are generally held twice a year, towards the end of May and October of each year. It is recommended that you register as soon as possible and upload all the required documents. More information can be found on the SARL website at the following address:
-[https://mysarl.org.za/rae-radio-amateur-examination/](https://mysarl.org.za/rae-radio-amateur-examination/){:target="_blank"}
+The amateur radio examinations are generally held twice a year, towards the end of May and October of each year. It is recommended that you register as soon as possible.
+
+**Registration:**
+[Click here to register for the 2026 Course](https://docs.google.com/forms/d/e/1FAIpQLSclmT8M5rErV_qzV1gv-hK33rBW2wTJ8Kvr2h8qe5w4Md1Phw/viewform?usp=dialog)
 
 
 | Contact Details|  |
