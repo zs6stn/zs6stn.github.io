@@ -19,7 +19,7 @@ The Sandton Amateur Radio Club hosts the following Repeaters:
 
 High Sites
 ---
- 
+    
 Our main Highsite is hosted at the Bryanston water tower.
 
 ![Bryanston  Highsite](/assets/images/repeaters/HighSite.jpg)
